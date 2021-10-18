@@ -1,0 +1,735 @@
+{"mirna": "hsa-let-7a-3p", "gene": ["APOBEC3A", "CCND1", "CCND2", "E2F2"]}
+{"mirna": "hsa-let-7a-5p", "gene": ["AGO1", "AGO4", "ARG2", "AURKB", "CASP3", "CCND2", "CCR7", "CDC34", "CDK6", "CDKN1A", "DICER1", "E2F2", "EGFR", "EWSR1", "EZH2", "HAS2", "HMGA1", "HMGA2", "HRAS", "IGF2", "IGF2BP1", "IL6", "ITGB3", "KRAS", "LIN28A", "LIN28B", "MAP4K4", "MYC", "NF2", "NKIRAS2", "NRAS", "PAK1", "PARP1", "PKM", "PRDM1", "RAB40C", "RAVER2", "RRM2", "STAT3", "TGFBR3", "TNFAIP3", "TNFRSF10B", "TRIM71", "UHRF1", "UHRF2", "WNT1"]}
+{"mirna": "hsa-let-7b-3p", "gene": ["CASP3"]}
+{"mirna": "hsa-let-7b-5p", "gene": ["AGO1", "AKT2", "ANAPC1", "CCNA2", "CCND1", "CCND2", "CDC25A", "CDC34", "CDK6", "COL3A1", "CPEB1", "CPEB3", "CTHRC1", "CYP2J2", "E2F2", "EZH2", "HMGA1", "HMGA2", "HRAS", "IFNB1", "IGF1R", "IGF2BP1", "IGF2BP2", "IRS2", "LGR4", "LIN28A", "LIN28B", "MTPN", "NR2E1", "NRAS", "PRDM1", "RDH10", "TGFBR1", "TLR4", "TNFRSF10B"]}
+{"mirna": "hsa-let-7c-3p", "gene": ["IL6R", "MTPN"]}
+{"mirna": "hsa-let-7c-5p", "gene": ["AGO1", "BCL2L1", "CASP3", "CDC25A", "CEBPB", "COPS6", "COPS8", "GPS1", "HMGA2", "HSPA4", "IGF1R", "IL10", "IL6", "ITGB3", "MAP4K3", "MTOR", "MYC", "NRAS", "NUMB", "PBX2", "RICTOR", "STAT3", "TGFBR1", "TNFRSF10B", "TRIB2", "TRIM71"]}
+{"mirna": "hsa-let-7d-5p", "gene": ["AGO1", "COL3A1", "CRYGEP", "DICER1", "HMGA2", "IL13", "SLC11A2", "TNFRSF10B"]}
+{"mirna": "hsa-let-7e-3p", "gene": ["COPS6", "COPS8", "GPS1"]}
+{"mirna": "hsa-let-7e-5p", "gene": ["AGO1", "ARID3A", "AURKB", "CCND1", "EZH2", "FASLG", "HMGA2", "IGF1", "IGF1R", "LIN28A", "MMP9", "MYCN", "PLK1", "SMC1A", "TNFAIP3", "TNFRSF10B", "WNT1"]}
+{"mirna": "hsa-let-7f-5p", "gene": ["AGO1", "CCL7", "CCND1", "COPS6", "COPS8", "CYP19A1", "DYRK2", "ELF4", "GPS1", "IL13", "IL6", "KLK10", "KLK6", "MYH9", "POSTN", "PRDM1", "SOCS3"]}
+{"mirna": "hsa-let-7g-3p", "gene": ["CCL2", "CCL5"]}
+{"mirna": "hsa-let-7g-5p", "gene": ["AGO1", "AKT2", "BCL2L1", "BMI1", "CASP3", "CDKN2A", "COL1A2", "FN1", "GAB2", "HMGA2", "IGF2BP1", "IL13", "KRAS", "MYC", "SMAD2", "TGFBR1", "THBS1", "TNFRSF10B"]}
+{"mirna": "hsa-let-7i-5p", "gene": ["AGO1", "ASCL1", "AURKB", "BMP4", "COPS6", "COPS8", "GPS1", "IGF1", "IL13", "IL2", "NEUROG1", "SOCS1", "TLR4"]}
+{"mirna": "hsa-miR-1-3p", "gene": ["ABCB1", "ADAR", "AGO1", "ANXA2", "API5", "ASPH", "ATP6V1B2", "BAG4", "BDNF", "CALM3", "CAND1", "CCL2", "CCND1", "CDK4", "CEBPA", "CNN3", "COX1", "CXCL12", "EDN1", "ETS1", "FABP3", "FASN", "FN1", "FOXP1", "FRS2", "FZD7", "G6PD", "GATA4", "GJA1", "HAND2", "HCN2", "HCN4", "HDAC4", "HSPA4", "HSPD1", "IGF1", "IL11", "KCNE1", "KCNJ2", "KIF2A", "KRAS", "LARP4", "LASP1", "MEF2A", "MET", "MPL", "NAIP", "ND1", "NOTCH3", "PAX3", "PGD", "PIK3CA", "PIM1", "PNP", "POGK", "PPP2R5A", "PRKCE", "PTBP1", "PTMA", "RARB", "SLC8A1", "SNAI2", "SOX6", "SOX9", "SP1", "SPRED1", "TAGLN2", "TH", "TKT", "TMSB4X", "TNKS2", "TWF1", "TWIST1", "VEGFA", "XPO6", "YWHAZ"]}
+{"mirna": "hsa-miR-1-5p", "gene": ["BDNF", "CAPRIN1", "CDK4", "CDK6", "CXCL12", "EGFR", "LASP1", "MET", "PDE7A", "TAGLN2", "VEGFA"]}
+{"mirna": "hsa-miR-100-3p", "gene": ["CXCL8"]}
+{"mirna": "hsa-miR-100-5p", "gene": ["ACKR3", "AKT1", "ATM", "BMPR2", "CTDSPL", "CYR61", "FGFR3", "FKBP5", "FLT1", "HOXA1", "HS3ST2", "IGF1R", "IGF2", "MMP13", "MTOR", "NCOR2", "PLK1", "RAP1B", "RNF144B", "SMARCA5", "THAP2", "ZBTB7A", "ZNF215", "ZNRF2"]}
+{"mirna": "hsa-miR-101-3p", "gene": ["APP", "ATG4D", "ATM", "ATP5B", "ATXN1", "CCND1", "CDH5", "CDK8", "CFTR", "COX2", "CPEB1", "CTNNB1", "DNMT3A", "DUSP1", "EED", "EYA1", "EZH2", "FMR1", "FOS", "GRSF1", "ITGA3", "JAK2", "KLF6", "MCL1", "MEIS1", "MET", "MITF", "MTOR", "MYCN", "NLK", "NOTCH1", "PIK3CB", "PIM1", "PRDM1", "PRKAB1", "PTGER4", "PTGS2", "RAB5A", "RAC1", "RAP1B", "RHOA", "RUNX1", "SNHG1", "SOX9", "SRF", "STMN1", "TET2", "VEGFA", "VEGFC", "VHL", "ZEB1", "ZEB2"]}
+{"mirna": "hsa-miR-101-5p", "gene": ["ACKR3", "CCDC88A", "EZH2", "FOS", "PRKDC", "RAB1A", "RAC1", "SOX9", "STMN1", "TLR2", "VEGFA"]}
+{"mirna": "hsa-miR-103a-2-5p", "gene": ["PDCD10"]}
+{"mirna": "hsa-miR-103a-3p", "gene": ["ADAM10", "AGO1", "BNIP3", "CACNA1C", "CAV1", "CCNE1", "CDK2", "CDK6", "CREB1", "CYP2C8", "DAPK1", "DICER1", "DVL1", "GPRC5A", "ID2", "KLF4", "MEF2D", "MYB", "MYCN", "OLFM4", "PIEZO1", "PTEN", "RAD51", "RUNX2", "SERPINB5", "SFRP4", "SNCG", "TIMP3"]}
+{"mirna": "hsa-miR-105-5p", "gene": ["AKT1", "CDK6", "IRS1", "MYB", "NCOA1", "PDK1", "SOX9", "TJP1", "TLR2"]}
+{"mirna": "hsa-miR-106a-5p", "gene": ["APC", "APP", "ARID4B", "ATG7", "ATM", "BCL10", "BMP2", "CASP7", "CCND1", "CDKN1A", "CDX2", "CXCL8", "CYP19A1", "E2F1", "ERCC1", "FAS", "HIF1A", "HIPK3", "HMGA2", "IL10", "MAPK9", "MFN2", "MGST2", "MYB", "MYLIP", "PTEN", "RARB", "RB1", "RBL2", "RND3", "RUNX1", "RUNX3", "SIRPA", "SLC2A3", "STAT3", "TGFBR2", "TIMP2", "ULK1", "VEGFA"]}
+{"mirna": "hsa-miR-106b-3p", "gene": ["BMP2", "PTEN"]}
+{"mirna": "hsa-miR-106b-5p", "gene": ["APC", "APP", "ATG16L1", "BCL2L11", "CASP7", "CASP8", "CCND1", "CCND2", "CDKN1A", "CYBB", "DAB2", "E2F1", "E2F5", "EOMES", "FAM129A", "FYN", "HIF1A", "ITCH", "JAK1", "KAT2B", "MFN2", "MMP2", "PKD2", "PRRX1", "PTEN", "PTENP1", "PURA", "RB1", "RBL1", "RBL2", "RHOC", "RUNX3", "SETD2", "SLC2A4", "SMAD7", "STAT3", "TCEAL1", "TNFRSF10A", "TNFSF11", "TRIM8", "TWIST1", "VEGFA", "WEE1", "ZBTB4"]}
+{"mirna": "hsa-miR-107", "gene": ["AGO1", "ARNT", "AXIN2", "BACE1", "CAV1", "CDC42", "CDK6", "CDK8", "CHGA", "CHRM1", "CLOCK", "CPEB1", "CYP2C8", "DAPK1", "DICER1", "FBXW7", "FOXO1", "GRN", "HIF1A", "HMGA2", "IL6", "JAK1", "KLF4", "LATS2", "LIN28A", "MYB", "NF1", "NFIA", "NOTCH2", "PLAG1", "PRKCE", "RAD51", "SALL4", "SERPINB5", "SH3GL2", "SIAH1", "SNCG", "VEGFA"]}
+{"mirna": "hsa-miR-10a-3p", "gene": ["BTRC", "IRAK4", "NR2C2"]}
+{"mirna": "hsa-miR-10a-5p", "gene": ["ACTG1", "BCL2L11", "BCL6", "BDNF", "BTRC", "CHL1", "EPHA4", "GP1BA", "HOXA1", "MAP3K7", "MAPK8IP1", "MMP14", "NCOR2", "NOD2", "PIK3CG", "PTEN", "SERPINE1", "SRSF1", "TRA2B", "USF2"]}
+{"mirna": "hsa-miR-10b-3p", "gene": ["BUB1", "CCNA2", "PLK1"]}
+{"mirna": "hsa-miR-10b-5p", "gene": ["AKT1", "BCL2L11", "CDKN1A", "CDKN2A", "CREB1", "CSMD1", "DDX58", "GP1BA", "HOXB3", "HOXD10", "HTATIP2", "KL", "KLF4", "MAPRE1", "MBNL1", "MBNL2", "MBNL3", "NCOR2", "NF1", "NOTCH1", "PAX6", "PDCD4", "PIEZO1", "PIK3CA", "PPARA", "PTEN", "RSRC1", "SART3", "SDC1", "SRSF1", "TFAP2C", "TIAM1", "TP53", "TPM1", "TRA2B", "ZEB1"]}
+{"mirna": "hsa-miR-1178-3p", "gene": ["STUB1"]}
+{"mirna": "hsa-miR-1180-3p", "gene": ["TCEAL1", "TNIP2"]}
+{"mirna": "hsa-miR-1180-5p", "gene": ["TCEAL1"]}
+{"mirna": "hsa-miR-1181", "gene": ["SOX2", "STAT3"]}
+{"mirna": "hsa-miR-1182", "gene": ["TERT"]}
+{"mirna": "hsa-miR-1202", "gene": ["GRM4"]}
+{"mirna": "hsa-miR-1207-3p", "gene": ["FNDC1"]}
+{"mirna": "hsa-miR-1207-5p", "gene": ["CD151", "CSF1", "STAT6", "STOML2", "TERT"]}
+{"mirna": "hsa-miR-122-3p", "gene": ["FUT1", "MCAT"]}
+{"mirna": "hsa-miR-122-5p", "gene": ["AACS", "ADAM10", "ADAM17", "AKT3", "ALDOA", "ANK2", "ANXA11", "AP3M2", "ATP1A2", "AXL", "BAX", "BCL2L2", "CCNG1", "CDK4", "CLIC4", "CREB1", "CTDNEP1", "CYP7A1", "DSTYK", "DUSP2", "EGFR", "EGLN3", "ENTPD4", "FAM117B", "FOXJ3", "FOXP1", "FUNDC2", "FUT8", "G6PC3", "GALNT10", "GYS1", "HMOX1", "IGF1R", "IL1A", "LPIN1", "MAPK11", "MECP2", "MEF2D", "NCAM1", "NFATC2IP", "NOD2", "NT5C3A", "NUMBL", "P4HA1", "PDK4", "PEG10", "PKM", "PRKAB1", "PRKRA", "PTPN1", "RAB11FIP1", "RAB6B", "RAC1", "RHOA", "SLC7A1", "SLC7A11", "SOCS1", "SPRY2", "SRF", "TBX19", "TPD52L2", "TRIB1", "UBAP2", "VEGFC", "WNT1", "XPO6", "ZNF395"]}
+{"mirna": "hsa-miR-1224-5p", "gene": ["CREB1"]}
+{"mirna": "hsa-miR-1225-5p", "gene": ["IRS1"]}
+{"mirna": "hsa-miR-1226-3p", "gene": ["MUC1"]}
+{"mirna": "hsa-miR-1228-3p", "gene": ["CSNK2A2", "MOAP1", "TP53"]}
+{"mirna": "hsa-miR-1228-5p", "gene": ["MIF"]}
+{"mirna": "hsa-miR-1229-3p", "gene": ["SORL1"]}
+{"mirna": "hsa-miR-1234-3p", "gene": ["STAT3"]}
+{"mirna": "hsa-miR-1236-3p", "gene": ["FLT4", "KDR", "RORC", "TCEAL1", "ZEB1"]}
+{"mirna": "hsa-miR-124-3p", "gene": ["AHR", "AKT2", "AMOTL1", "AR", "B4GALT1", "BDNF", "CAMTA1", "CAPNS1", "CASC3", "CAV1", "CBL", "CCL2", "CCND2", "CD151", "CD274", "CDH2", "CDK2", "CDK4", "CDK6", "CEBPA", "CLOCK", "CTDSP1", "CTGF", "DNMT3B", "E2F6", "EFNB1", "EGR1", "ELK3", "EZH2", "FLOT1", "FOXA2", "FXN", "GRIA1", "GRIA2", "GRIA3", "HMGA1", "HNRNPA2B1", "HOTAIR", "IL6R", "IQGAP1", "ITGB1", "ITGB3", "JAG1", "KLF6", "LAMC1", "MAPK14", "MECP2", "MGMT", "MTDH", "MTPN", "MYO10", "NEAT1", "NFATC1", "NFKBIZ", "NR3C1", "NR3C2", "PIK3CA", "PIM1", "PPP1R13L", "PRRX1", "PTBP1", "RAC1", "RAP2A", "RDH10", "RELA", "REST", "RGS4", "RHOG", "ROCK1", "ROCK2", "RRAS", "Rab38", "SART3", "SGPL1", "SIRT1", "SLC16A1", "SMOX", "SMYD3", "SNAI2", "SOS1", "SPHK1", "SSSCA1", "STAT3", "SYCP1", "TRIB3", "UHRF1", "VIM", "XRCC6"]}
+{"mirna": "hsa-miR-124-5p", "gene": ["ACHE", "BECN1", "FOXQ1", "NR4A1", "STAT3"]}
+{"mirna": "hsa-miR-1245a", "gene": ["BRCA2"]}
+{"mirna": "hsa-miR-1246", "gene": ["AXIN2", "DYRK1A", "GSK3B", "NFIB", "PRKAR1A"]}
+{"mirna": "hsa-miR-1247-5p", "gene": ["MAP3K9", "SOX9"]}
+{"mirna": "hsa-miR-1249-3p", "gene": ["PTCH1"]}
+{"mirna": "hsa-miR-1250-3p", "gene": ["NOD1", "PTEN"]}
+{"mirna": "hsa-miR-1253", "gene": ["BTK"]}
+{"mirna": "hsa-miR-1254", "gene": ["CCAR1"]}
+{"mirna": "hsa-miR-1256", "gene": ["TRIM68"]}
+{"mirna": "hsa-miR-1258", "gene": ["HPSE", "MRGPRF"]}
+{"mirna": "hsa-miR-125a-3p", "gene": ["BRCA1", "EZH2", "FYN", "GIT1", "GPC4", "IL23R", "IL6", "IRF4", "MTA1", "NRG1", "PRDM1", "RHOA", "VEGFA", "XBP1"]}
+{"mirna": "hsa-miR-125a-5p", "gene": ["ABL2", "AKT1", "ARID3A", "ARID3B", "BAK1", "BCL2", "BCL2L12", "CASP2", "CD34", "CDKN1A", "CLEC5A", "DLL4", "E2F3", "EDN1", "EGFR", "EIF4EBP1", "ELAVL1", "ERBB2", "ERBB3", "ESRRA", "GALNT14", "HAX1", "HDAC4", "HDAC5", "HK2", "IFNG", "JAK2", "KLF13", "LFNG", "LIFR", "LIN28A", "MAPK14", "MCL1", "MEG3", "MMP11", "MTOR", "NAIF1", "NTRK3", "PIK3CG", "RAF1", "SIRT7", "SMAD2", "SMAD4", "STAT3", "TAZ", "TNFAIP3", "TP53", "TRAF6", "VEGFA", "VPS51", "ZBTB7A"]}
+{"mirna": "hsa-miR-125b-1-3p", "gene": ["BGLAP", "BIK", "FRZB", "ITGA9", "MAP2K7", "MTFP1", "S1PR1", "SGPL1", "TACSTD2", "TP53"]}
+{"mirna": "hsa-miR-125b-2-3p", "gene": ["IGF1R"]}
+{"mirna": "hsa-miR-125b-5p", "gene": ["ABTB1", "AHRR", "AKT1", "ALOX5", "ANGPT2", "APC", "APLN", "ARID3A", "ARID3B", "BAK1", "BBC3", "BCL2", "BCL2L2", "BCL3", "BMF", "BMPR1B", "BTG2", "CBFB", "CCNJ", "CD44", "CDH5", "CDKN2A", "CDKN2D", "CEBPA", "CGN", "CSNK2A1", "CYP24A1", "DGAT1", "DKK3", "DRAM2", "DUSP6", "E2F2", "E2F3", "EGFR", "EIF4EBP1", "EIF5A2", "ENPEP", "EPO", "EPOR", "ERBB2", "ERBB3", "ETS1", "FES", "FGFR2", "FZD6", "Fas", "GAB2", "GLI1", "GRIN2A", "GSS", "HK2", "HMGA1", "HMGA2", "HOTTIP", "ICAM2", "IGF1R", "IGF2", "IKZF2", "IKZF3", "IKZF4", "IL6R", "IRF4", "JAK2", "KLC2", "KLF13", "LACTB", "LIFR", "LIN28A", "LIN28B", "LIPA", "MAN1B1", "MAP3K11", "MAPK14", "MCL1", "MEGF9", "MMP13", "MMP2", "MMP26", "MUC1", "MXD1", "NCOR2", "NES", "NEU1", "NKIRAS2", "NTRK3", "PCTP", "PHF8", "PIAS3", "PIGF", "PIK3CB", "PIK3CD", "PODXL", "PPP1CA", "PRDM1", "PRKRA", "PTH1R", "RAF1", "RPS6KA1", "SCNN1A", "SEMA4C", "SET", "SFRP5", "SGPL1", "SIRT7", "SMAD4", "SMO", "SPHK1", "STARD13", "STAT3", "SUV39H1", "TBC1D1", "TET2", "TNF", "TNFAIP3", "TP53", "TP53INP1", "VDR", "VPS4B", "VPS51"]}
+{"mirna": "hsa-miR-126-3p", "gene": ["ADAM9", "ADGRE5", "ADM", "AKT1", "BCL2", "CADM1", "CRK", "CRKL", "CXCL12", "CXCR4", "DNMT1", "EGFL7", "EZH2", "FOXO3", "HOXA9", "IGFBP2", "IRS1", "KRAS", "LRP6", "MERTK", "MMP7", "NFKBIA", "PGR", "PIK3CG", "PIK3R2", "PITPNC1", "PLK2", "PTPN7", "RGS3", "RHOU", "ROCK1", "SIRT1", "SLC7A5", "SOX2", "SPRED1", "TCF4", "TEK", "TOM1", "VCAM1", "VEGFA"]}
+{"mirna": "hsa-miR-126-5p", "gene": ["ADAM9", "CRK", "CXCL12", "CYLD", "HOTAIR", "MMP7", "MYC", "PTPN7", "SLC45A3", "SPRED1", "VEGFA"]}
+{"mirna": "hsa-miR-1260b", "gene": ["DKK2", "SFRP1", "SMAD4"]}
+{"mirna": "hsa-miR-1264", "gene": ["DNMT1"]}
+{"mirna": "hsa-miR-1266-5p", "gene": ["TERT"]}
+{"mirna": "hsa-miR-1269a", "gene": ["SOX6"]}
+{"mirna": "hsa-miR-1269b", "gene": ["CDC40"]}
+{"mirna": "hsa-miR-127-3p", "gene": ["BAG5", "BCL6", "KMT5A", "MAPK4", "MGMT", "MMP13", "PRDM1", "RGMA", "SEPT7", "SERPINB9", "SFRP1", "SKI", "XBP1", "XRCC3", "ZWINT"]}
+{"mirna": "hsa-miR-127-5p", "gene": ["BLVRB", "SPP1"]}
+{"mirna": "hsa-miR-1270", "gene": ["FXN"]}
+{"mirna": "hsa-miR-1271-5p", "gene": ["CCNG1", "FOXQ1", "GPC3"]}
+{"mirna": "hsa-miR-1273g-3p", "gene": ["PTEN"]}
+{"mirna": "hsa-miR-1274a", "gene": ["FOXO4"]}
+{"mirna": "hsa-miR-128-1-5p", "gene": ["BMI1", "E2F3", "SNAI1", "WNT3A"]}
+{"mirna": "hsa-miR-128-3p", "gene": ["ABCA1", "ABCG1", "ADORA2B", "BAX", "BMI1", "CSF1", "CYP2C9", "DCX", "E2F3", "EGFR", "EPHB1", "EPHB2", "FADD", "FBXW7", "IGF1", "ISL1", "KLF4", "LGALS3", "LIN28A", "MAPK14", "MTOR", "NANOG", "NECTIN4", "NEK2", "NTRK3", "PDK1", "PFKL", "PIK3R1", "PTEN", "RELN", "RET", "RICTOR", "RXRA", "SIRT1", "SMAD2", "SNAI1", "SNAI2", "SPTAN1", "SREBF1", "SREBF2", "SUZ12", "TGFBR1", "VEGFC", "WEE1"]}
+{"mirna": "hsa-miR-1280", "gene": ["ROCK1"]}
+{"mirna": "hsa-miR-1283", "gene": ["ATF4"]}
+{"mirna": "hsa-miR-1284", "gene": ["BCL2", "EIF4A1"]}
+{"mirna": "hsa-miR-1285-3p", "gene": ["TGM2", "TP53"]}
+{"mirna": "hsa-miR-1289", "gene": ["ATP4A"]}
+{"mirna": "hsa-miR-128b", "gene": ["AFF1", "CDKN1B", "EGFR", "KMT2A"]}
+{"mirna": "hsa-miR-129-1-3p", "gene": ["AURKA", "GSK3B", "PDCD2"]}
+{"mirna": "hsa-miR-129-2-3p", "gene": ["BCL2L2", "CCP110", "CDK6", "MYC", "SOX4"]}
+{"mirna": "hsa-miR-129-5p", "gene": ["ABCB1", "ABCC5", "ABCG1", "AGO3", "APC", "BDKRB2", "BECN1", "CAMTA1", "CDH1", "CDK6", "COL1A1", "FMR1", "FNDC3A", "HMGB1", "IGF1", "IGF2BP3", "MAPK1", "MCRS1", "NOTCH1", "NR4A2", "PDPK1", "RET", "SOX4", "SP1", "TWIST1", "VIM", "WNT4"]}
+{"mirna": "hsa-miR-1290", "gene": ["FOXA1"]}
+{"mirna": "hsa-miR-1291", "gene": ["ABCC1", "ERN1", "SLC2A1"]}
+{"mirna": "hsa-miR-1292-5p", "gene": ["SOX4"]}
+{"mirna": "hsa-miR-1293", "gene": ["TIMP1"]}
+{"mirna": "hsa-miR-1296-5p", "gene": ["ERBB2", "MCM2"]}
+{"mirna": "hsa-miR-1297", "gene": ["HMGA1", "HMGA2", "MALAT1", "TRIB2"]}
+{"mirna": "hsa-miR-1298-5p", "gene": ["GJA1"]}
+{"mirna": "hsa-miR-1303", "gene": ["ATG2B", "CLDN18"]}
+{"mirna": "hsa-miR-130a-3p", "gene": ["ATG2B", "ATXN1", "Acvr1", "CSF1", "DICER1", "DLL4", "ESR1", "GJA1", "HOXA10", "HOXA5", "IFITM1", "IL18", "KLF4", "MAFB", "MAP3K12", "MECP2", "MEOX2", "MYC", "PDGFRA", "PPARA", "PPARG", "PPARGC1A", "PTEN", "RAB5A", "RUNX3", "SLAIN1", "SMAD4", "TAC1", "TGFB1", "TGFBR2", "TNF", "XIAP"]}
+{"mirna": "hsa-miR-130a-5p", "gene": ["PTEN"]}
+{"mirna": "hsa-miR-130b-3p", "gene": ["CCDC6", "CCNA2", "CMPK1", "CSF1", "CYLD", "CYP2C9", "DICER1", "DLL1", "ERBB2", "FMR1", "IGF1", "IRF1", "ITGB1", "MMP2", "MST1", "NKD2", "PDGFRA", "PPARA", "PPARG", "PPARGC1A", "PTEN", "RUNX3", "SAV1", "SMAD4", "SNAI3", "STAT3", "TP53INP1", "UVRAG", "ZBTB4", "ZEB1"]}
+{"mirna": "hsa-miR-132-3p", "gene": ["AGO2", "ARHGAP32", "BDNF", "CCNA2", "CCNB1", "CDKN1A", "CRK", "EGFR", "FOXO1", "GDF5", "HBEGF", "IRAK4", "JPT1", "KLHL11", "MAPK1", "MMP9", "MUC13", "PIK3R3", "RAF1", "RASA1", "RB1", "SIRT1", "SLC2A1", "SMAD2", "SOX4", "SOX5", "SOX6", "SPRED1", "SPRY1", "TJAP1", "TLN2", "YY1AP1"]}
+{"mirna": "hsa-miR-132-5p", "gene": ["FOXO1"]}
+{"mirna": "hsa-miR-133a-3p", "gene": ["AFTPH", "ANXA2", "ARPC5", "BCL2L1", "CACNA1C", "CASP9", "CDC42", "COL1A1", "CTGF", "EGFR", "ERBB2", "FSCN1", "FTL", "Foxl2", "GSTP1", "HCN2", "HCN4", "IGF1", "IGF1R", "KCNH2", "KCNQ1", "LASP1", "LDLRAP1", "MCL1", "MEG3", "MMP14", "MSN", "NGFR", "NR2C2", "PDLIM5", "PNP", "PRDM16", "RBPJ", "RFFL", "SGMS2", "SNX30", "SOX4", "SP1", "TAGLN2", "UBA2", "UCP2", "VKORC1", "ZEB1"]}
+{"mirna": "hsa-miR-133a-5p", "gene": ["EGFR", "FSCN1", "GDNF", "MMP9", "RHOA"]}
+{"mirna": "hsa-miR-133b", "gene": ["AKT1", "BCL2L1", "BCL2L2", "CDC42", "CDK13", "CPNE3", "CTGF", "CXCR4", "EGFR", "ERG", "FAIM", "FAS", "FGFR1", "FOXC1", "FOXL2", "FSCN1", "GLI1", "GLI3", "GSTP1", "HCN2", "HCN4", "IGF1R", "KCNH2", "MCL1", "MET", "MMP14", "MMP9", "NUP214", "PITX3", "PKM", "PPP2R2D", "PRDM16", "PTBP1", "PTBP2", "PTPRK", "RB1CC1", "RHOA", "SGK1", "SIRT1", "SP1", "STK3", "TAGLN2"]}
+{"mirna": "hsa-miR-134-5p", "gene": ["ABCC1", "ANGPTL4", "ERBB2", "FOXM1", "GOLPH3", "ITGB1", "KRAS", "MAGI2", "NANOG", "OPRM1", "PAK2", "PUM2", "RAB27A", "STAT5B", "VEGFA", "VIM", "ZDHHC9"]}
+{"mirna": "hsa-miR-135a-3p", "gene": ["KIFC1"]}
+{"mirna": "hsa-miR-135a-5p", "gene": ["APC", "BCL2", "BMPR2", "CEBPD", "DAPK2", "E2F1", "EGFR", "ESRRA", "FOXO1", "HOXA10", "HTR1A", "IRS2", "JAK2", "KLF4", "KLF8", "MMP11", "MTSS1", "MYC", "NR3C2", "PHLPP2", "PPM1E", "PTK2", "PTPRD", "RBAK", "ROCK1", "ROCK2", "RUNX2", "SIAH1", "SLC6A4", "SMAD5", "STAT6", "TXNIP", "VLDLR"]}
+{"mirna": "hsa-miR-135b-3p", "gene": ["CCL7", "LATS2", "STAT6"]}
+{"mirna": "hsa-miR-135b-5p", "gene": ["ACVR1B", "APC", "BMPR2", "CASR", "EVI5", "FOXO1", "KLF4", "LZTS1", "MAFB", "MEF2C", "MID1", "MTCH2", "PPM1E", "PPP2R5C", "RECK", "SMAD5", "STAT6", "TGFBR1", "THBS2"]}
+{"mirna": "hsa-miR-136-3p", "gene": ["NOTCH3"]}
+{"mirna": "hsa-miR-136-5p", "gene": ["BCL2", "IL6", "MTDH", "RASAL2"]}
+{"mirna": "hsa-miR-137", "gene": ["AKT2", "BMP7", "BNIP3L", "CALN1", "CDC42", "CDK6", "COX2", "CSE1L", "CTBP1", "CUL4A", "CXCL12", "DCLK1", "EGFR", "ESRRA", "EZH2", "FMNL2", "FUNDC1", "GLIPR1", "KDM1A", "KDM2A", "KDM4A", "KDM5B", "KDM7A", "KIT", "KLF12", "KLF4", "MED1", "MET", "MITF", "MSI1", "MTDH", "MYO1C", "NCOA3", "Nr1i3", "PAK2", "PRKAA1", "PTGS2", "PXN", "RASGRF1", "RORA", "SERPINA3", "SLC6A3", "SP1", "TBX3", "TGFB2", "TRIM13", "YBX1", "ZNF804A"]}
+{"mirna": "hsa-miR-138-1-3p", "gene": ["HIF1A", "PDK1", "ZEB2"]}
+{"mirna": "hsa-miR-138-5p", "gene": ["ADGRA2", "AKT1", "BAG1", "BCL11A", "BLCAP", "CASP3", "CCND1", "CCND3", "CD274", "CDH1", "CYTOR", "EID1", "EIF4EBP1", "EZH2", "FERMT2", "FOSL1", "FOXC1", "GNAI2", "H2AFX", "HIF1A", "KDM5C", "LCN2", "MAP3K11", "MXD1", "NFKB1", "PTK2", "RARA", "RELN", "RHOC", "RMND5A", "ROCK2", "S100A1", "SENP1", "SIRT1", "SNAI2", "SOX4", "SOX9", "SUZ12", "TERT", "TWIST2", "VIM", "YAP1", "ZEB2"]}
+{"mirna": "hsa-miR-139-3p", "gene": ["ELAVL1", "MMP11", "NOB1"]}
+{"mirna": "hsa-miR-139-5p", "gene": ["ACTC1", "ADGRL4", "BCL2", "CXCR4", "FAM162A", "FOS", "HRAS", "IGF1R", "JUN", "MCL1", "MET", "MMP11", "NFKB1", "NOTCH1", "NR5A2", "OIP5", "PDE4D", "PIK3CA", "RAP1B", "RHOT1", "ROCK2", "SMARCA4", "TPD52", "WNT1", "ZHX2"]}
+{"mirna": "hsa-miR-140-3p", "gene": ["ATP6AP2", "ATP8A1", "CD38", "COL4A1", "FN1", "GPC1", "ITGA6", "MARCKSL1", "NRIP1"]}
+{"mirna": "hsa-miR-140-5p", "gene": ["ADA", "ALDH1A1", "DNMT1", "DNPEP", "FGF9", "FGFRL1", "FZD6", "GALC", "GALNT16", "HDAC4", "HDAC7", "HMGN5", "IGF1R", "LAMC1", "MEG3", "MMD", "OSTM1", "PAX6", "PDGFRA", "PIN1", "RALA", "SEPT2", "SMURF1", "SNORD12C", "SOX2", "SOX4", "SOX9", "STAT1", "TGFBR1", "VEGFA"]}
+{"mirna": "hsa-miR-141-3p", "gene": ["ACVR2B", "BAP1", "BRD3", "CDC25A", "CDC25C", "CDYL", "CLOCK", "CTBP2", "DLX5", "E2F3", "EIF4E", "ELMO2", "ERBIN", "HDGF", "HIPK2", "HNRNPD", "HOXB5", "IGF1R", "KEAP1", "KLF11", "KLF12", "KLHL20", "MALAT1", "MAP4K4", "MAPK14", "MAPK9", "NR0B2", "PAPPA", "PHLPP1", "PHLPP2", "PPARA", "PTEN", "PTPRD", "RASSF2", "RIN2", "SEPT7", "SFPQ", "SHC1", "STAT4", "STAT5A", "TAZ", "TCF7L1", "TFDP2", "TGFB2", "TIAM1", "TM4SF1", "TRAPPC2B", "UBAP1", "VAC14", "WDR37", "YAP1", "YWHAG", "ZEB1", "ZEB2", "ZFPM2", "ZMPSTE24"]}
+{"mirna": "hsa-miR-141-5p", "gene": ["ICAM1", "KEAP1", "SPAG9", "WNK1"]}
+{"mirna": "hsa-miR-142-3p", "gene": ["ABCG2", "APC", "ARNTL", "BOD1", "CCNT2", "DOCK6", "EGR2", "HMGA1", "HMGB1", "HOXA10", "HOXA7", "HOXA9", "HSPA1B", "IL1A", "LGR5", "LPP", "LRRC32", "PRKCA", "PROM1", "PTPN23", "RAC1", "ROCK2", "TAB2", "TGFBR1", "THBS4"]}
+{"mirna": "hsa-miR-142-5p", "gene": ["BACH2", "Becn1", "CLDN1", "HIF1A", "NFE2L2", "PTEN", "RAC1", "SIRT1", "SMAD3", "SOCS1", "TGFB2", "TGFBR2", "TP53INP1", "ZEB1"]}
+{"mirna": "hsa-miR-143-3p", "gene": ["AKT1", "AKT2", "BAG3", "BCL2", "BRAF", "CD44", "COL3A1", "CTGF", "CYP2C9", "DDX6", "DNMT3A", "DTNB", "FAM83F", "FHIT", "FNDC3B", "FSCN1", "GABARAPL1", "HK2", "HNF4A", "HRAS", "IGF1R", "IL13RA1", "ITGB1", "ITGB4", "KLF5", "KRAS", "LIMK1", "MACC1", "MAPK7", "MDM2", "MMP13", "MMP14", "MMP2", "MMP9", "MYO6", "NFATC1", "NFKB2", "NR2C2", "OSBPL8", "PTGS2", "RREB1", "SDC1", "SERPINE1", "TLR2", "TNF"]}
+{"mirna": "hsa-miR-143-5p", "gene": ["COX2", "ERBB3"]}
+{"mirna": "hsa-miR-144-3p", "gene": ["APP", "Adamts1", "CFTR", "ETS1", "EZH2", "FGG", "IRS1", "MAP3K8", "MET", "MTOR", "NFE2L2", "NOTCH1", "PBX3", "PLAG1", "PTEN", "PTGS2", "SMAD4", "TGFB1", "TTN", "TUG1", "XIST", "ZEB1", "ZEB2"]}
+{"mirna": "hsa-miR-144-5p", "gene": ["CCNE1", "CCNE2", "MET", "ROCK1", "ROCK2", "RUNX1", "SMAD4", "TGIF1"]}
+{"mirna": "hsa-miR-145-3p", "gene": ["MMP16", "MTDH", "PLCE1", "SMAD3"]}
+{"mirna": "hsa-miR-145-5p", "gene": ["ABCC1", "ABHD17C", "ABRACL", "ADAM17", "ADD3", "AKR1B10", "ALDH3A1", "ALPPL2", "ANGPT2", "AP1G1", "APH1A", "ARF6", "ARL6IP5", "BNIP3", "BRAF", "C11orf65", "CAMK1D", "CBFB", "CCDC43", "CD28", "CD40", "CD44", "CDH2", "CDK4", "CDK6", "CDKN1A", "CEP19", "CFTR", "CLINT1", "COL5A1", "CRNDE", "CTGF", "CTNND1", "DDC", "DDX17", "DDX6", "DFFA", "DTD1", "E2F3", "EGFR", "EIF4E", "EPAS1", "ERG", "ESR1", "ETS1", "F11R", "FAM3C", "FAM45A", "FLI1", "FSCN1", "FXN", "GMFB", "GOLM1", "HDAC11", "HDAC2", "HLTF", "HMGA2", "IFNB1", "IGF1R", "ILK", "IRS1", "IRS2", "ITGB8", "JADE1", "KLF4", "KLF5", "KREMEN1", "LYPLA2", "MAP2K6", "MCM2", "MDM2", "MEST", "MIXL1", "MMP1", "MMP12", "MMP14", "MSH3", "MTDH", "MTMR14", "MUC1", "MYC", "MYO5A", "MYO6", "MYOCD", "NAIP", "NANOG", "NDRG2", "NDUFA4", "NEDD9", "NFATC1", "NIPSNAP1", "NRAS", "NUDT1", "PAK4", "PARP8", "PIGF", "PODXL", "POU5F1", "PPP3CA", "PTP4A2", "PXN", "ROBO2", "ROCK1", "RPA1", "RPS6KB1", "RREB1", "RTKN", "SENP1", "SERINC5", "SERPINE1", "SET", "SMAD2", "SMAD3", "SOCS7", "SOX2", "SOX9", "SP1", "SP7", "SPTBN1", "SPTLC1", "SRGAP1", "STAT1", "SWAP70", "TGFB2", "TGFBR2", "TIRAP", "TMEM9B", "TNFSF13", "TPM3", "TPRG1", "TSPAN6", "TUG1", "VEGFA", "VPS51", "YES1"]}
+{"mirna": "hsa-miR-146a-3p", "gene": ["CXCR4", "PTTG1"]}
+{"mirna": "hsa-miR-146a-5p", "gene": ["BCLAF1", "BRCA1", "BRCA2", "CARD10", "CASP7", "CCL5", "CCNA2", "CCND1", "CCND2", "CD40LG", "CD80", "CFH", "CNOT6L", "COPS8", "COX2", "CPM", "CXCL12", "CXCL8", "CXCR4", "DUSP1", "EGFR", "ELAVL1", "ERBB4", "FADD", "FAF1", "FANCM", "FAS", "HOXD10", "ICAM1", "IL6", "IRAK1", "IRAK2", "IS2", "L1CAM", "LAMC2", "LFNG", "LRP2", "MIF", "MTA2", "NFAT5", "NFKB1", "NOS1", "NOTCH1", "NOTCH2", "NUMB", "PA2G4", "PLAUR", "PRKCE", "PTGES2", "PTGS2", "RAC1", "RARB", "RHO", "RHOA", "RNF11", "ROCK1", "SIKE1", "SLPI", "SMAD2", "SMAD4", "SMN1", "SOS1", "SOX2", "STAT1", "TGFB1", "TLR2", "TLR4", "TRAF6", "UHRF1", "WASF2"]}
+{"mirna": "hsa-miR-146b-3p", "gene": ["IRAK1", "MAT2A", "NPAS4", "PER1"]}
+{"mirna": "hsa-miR-146b-5p", "gene": ["EGFR", "ERBB4", "HNRNPD", "IL6", "IRAK1", "KIT", "MALAT1", "MMP16", "NFKB1", "PAX8", "PDGFRA", "RARB", "SLC5A5", "TLR4", "TRAF6", "UHRF1", "ZNRF3"]}
+{"mirna": "hsa-miR-1470", "gene": ["JUN"]}
+{"mirna": "hsa-miR-147a", "gene": ["HIF3A", "MCM3", "NDUFA4", "PSMA3", "SLC22A3", "VEGFA"]}
+{"mirna": "hsa-miR-147b", "gene": ["ALDH5A1", "COL4A2", "IER5", "MCM3", "NDUFA4", "SDHD"]}
+{"mirna": "hsa-miR-148a-3p", "gene": ["ACVR1", "ALCAM", "BAX", "BCL2", "BCL2L11", "CCKBR", "CDC25B", "CDKN1B", "DNMT1", "DNMT3B", "ERRFI1", "HLA-G", "IKBKB", "INO80", "IRS1", "ITGA5", "ITGB8", "MAFB", "MAP3K4", "MAP3K9", "MET", "MMP7", "NR1I2", "NRP1", "PBXIP1", "PDIA3", "QKI", "ROCK1", "RPS6KA5", "RUNX3", "S1PR1", "SERPINE1", "SMAD2", "STAT3", "TGFB2", "TGIF2", "TMED7", "USP4", "VAV2", "WNT1", "WNT10B"]}
+{"mirna": "hsa-miR-148a-5p", "gene": ["ABCA1", "AKT2", "CDKN1B", "CENPF", "GAS1", "TGIF2"]}
+{"mirna": "hsa-miR-148b-3p", "gene": ["ACVR1", "ALCAM", "CCKBR", "CSF1", "CYBB", "HLA-G", "HOTAIR", "HSP90AA1", "ITGA5", "MAP3K9", "MLH1", "NRAS", "PIK3CA", "PIK3R3", "PRKAB1", "ROCK1", "SLC2A1", "WNT1"]}
+{"mirna": "hsa-miR-148b-5p", "gene": ["MCL1"]}
+{"mirna": "hsa-miR-149-3p", "gene": ["AKT1", "E2F1", "FGFR1", "GPC1", "MYBL2", "WNT1"]}
+{"mirna": "hsa-miR-149-5p", "gene": ["BBC3", "FASLG", "FGF21", "FGFR1", "FOXM1", "GIT1", "GPC1", "IL6", "MTHFR", "MYD88", "PPM1F", "PTGER2", "SP1", "ZBTB2"]}
+{"mirna": "hsa-miR-150-3p", "gene": ["CCR6", "CTNNB1", "IGF1R", "MYB", "RPL11", "TP53"]}
+{"mirna": "hsa-miR-150-5p", "gene": ["ARRB2", "BIRC5", "CBL", "CCR6", "CISH", "COL4A4", "CREB1", "CXCR4", "EGR2", "EP300", "FLT3", "MMP14", "MUC4", "MYB", "NANOG", "NOTCH3", "P2RX7", "POLD3", "PRKCA", "SLC2A1", "SP1", "SRCIN1", "SSSCA1", "STAT1", "STAT5B", "TP53", "VEGFA", "ZEB1", "ZNF350"]}
+{"mirna": "hsa-miR-151a-3p", "gene": ["CCNE1", "IL12RB2", "NTRK3", "TWIST1"]}
+{"mirna": "hsa-miR-151a-5p", "gene": ["ARHGDIA", "CASZ1", "CYTB", "E2F6", "IL1RAPL1", "MPL", "N4BP1", "SMARCA5", "SOX17", "TP53"]}
+{"mirna": "hsa-miR-152-3p", "gene": ["ADAM17", "ALCAM", "ATG14", "CCKBR", "CCND1", "CD151", "CD274", "CSF1", "DKK1", "DNMT1", "FGF2", "FGFR3", "HLA-G", "IGF1R", "IRS1", "ITGA5", "KLF4", "KRAS", "MAFB", "NRP1", "PIK3R3", "PTEN", "TACC3", "TGFA", "WNT1", "XIST"]}
+{"mirna": "hsa-miR-152-5p", "gene": ["CD151", "CD274", "FGF2", "HLA-G"]}
+{"mirna": "hsa-miR-153-3p", "gene": ["BCL2", "BMPR2", "FOXO1", "HECTD3", "HMGB1", "IDO1", "KLF5", "MCL1", "MTDH", "NFE2L2", "PRDX2", "PTEN", "SNAI1", "SNCA", "ZEB2"]}
+{"mirna": "hsa-miR-153-5p", "gene": ["HIF1A", "RICTOR", "SETD8P1", "TGFB2", "ZEB2"]}
+{"mirna": "hsa-miR-154-3p", "gene": ["WNT5A"]}
+{"mirna": "hsa-miR-154-5p", "gene": ["CCND2", "E2F5", "HMGA2", "TLR2", "WNT5A", "ZEB2"]}
+{"mirna": "hsa-miR-155-3p", "gene": ["CREBRF", "ERBB2", "FBXW7", "IRAK3", "PTEN", "SIRT1", "TP53"]}
+{"mirna": "hsa-miR-155-5p", "gene": ["AGO4", "AGTR1", "ANAPC16", "ANXA2", "APAF1", "APC", "ARID2", "ARL15", "ARMC2", "BACH1", "BCL6", "BRPF3", "C16orf62", "C3orf18", "CARD11", "CARHSP1", "CASP3", "CCND1", "CCND2", "CD68", "CEBPB", "CEP41", "CEP83", "CIAPIN1", "CKAP5", "CLDN1", "CLUAP1", "CSF1R", "CSNK1A1", "CXCL8", "CYP2U1", "CYR61", "DCUN1D2", "DET1", "DHX40", "DOCK1", "E2F2", "EDN1", "ETS1", "EXOSC2", "FADD", "FAM135A", "FAM177A1", "FAM199X", "FAM91A1", "FBXW7", "FGF7", "FOS", "FOXO3", "GATM", "GCSAM", "GPM6B", "HBP1", "HIF1A", "HIVEP2", "HOMEZ", "IFNGR1", "IKBKE", "IL13RA1", "IL17RB", "INPP5D", "INPP5F", "INTS6", "JARID2", "JUN", "KBTBD2", "KDM3A", "KLHL5", "LCORL", "LDOC1", "LNX2", "LRIF1", "LRRC59", "MAFB", "MAP3K10", "MAP3K14", "MAPK13", "MAPK14", "MARF1", "MASTL", "MATR3", "MBNL3", "MCM8", "MECP2", "MEF2A", "MEIS1", "MITF", "MLH1", "MMP16", "MORC3", "MPP5", "MRPL18", "MRPS27", "MSH2", "MSH6", "MXI1", "MYB", "MYBL1", "MYC", "MYD88", "MYLK", "MYO10", "NARS", "NFKB1", "NKX3-1", "NOS3", "NR1H3", "NSD3", "OLR1", "PAK2", "PALD1", "PCDH9", "PDLIM5", "PHC2", "PHF14", "PICALM", "PIK3R1", "PKIA", "PKN2", "PRKAR1A", "PSIP1", "PTEN", "RAB11FIP2", "RAD51", "RAPGEF2", "RHOA", "RNF123", "RPTOR", "RUNX2", "SAMHD1", "SAP30L", "SDCBP", "SECISBP2", "SEL1L", "SH3PXD2A", "SHANK2", "SKI", "SMAD1", "SMAD2", "SMAD5", "SMARCA4", "SOCS1", "SOCS6", "SOX6", "SPI1", "STAT1", "TAB2", "TAF5L", "TBC1D14", "TBRG1", "TERF1", "TFAM", "THRB", "TLE4", "TM6SF1", "TP53INP1", "TRAK1", "TRIM32", "TRIP13", "TSHZ3", "TSPAN14", "UBQLN1", "UQCRFS1", "VHL", "VPS18", "WBP1L", "WEE1", "WWC1", "ZIC3", "ZNF254", "ZNF28", "ZNF611", "ZNF652"]}
+{"mirna": "hsa-miR-15a-3p", "gene": ["BCL2", "BMI1", "MAP3K9", "TWIST1"]}
+{"mirna": "hsa-miR-15a-5p", "gene": ["AKT3", "BCL2", "BDNF", "BMI1", "BRCA1", "CADM1", "CARM1", "CCND1", "CCND2", "CCNE1", "CDC25A", "CDKN2B", "CHEK1", "CHUK", "CLCN3", "CRKL", "CXCL10", "DMTF1", "FGF7", "FOXO1", "HMGA1", "HMGA2", "HSPA1B", "IFNG", "IL10RA", "KLF4", "MN1", "MYB", "PHLPP1", "PURA", "RECK", "REPIN1", "RET", "SOX5", "TNFAIP1", "TP53", "TSPYL2", "UCP2", "VEGFA", "WEE1", "WNT3A", "YAP1"]}
+{"mirna": "hsa-miR-15b-3p", "gene": ["CCND3", "IGF1R", "RECK", "SIRT4", "TRIM31"]}
+{"mirna": "hsa-miR-15b-5p", "gene": ["AGO2", "AKT3", "AXIN2", "BAX", "BCL2", "CCND1", "CCND3", "CCNE1", "CHEK1", "EIF4A1", "FOXO1", "FUT2", "HNF1A", "IFNG", "INSR", "KDR", "MMP9", "MTSS1", "OIP5", "PEBP4", "PPM1D", "PURA", "RAB1A", "RECK", "SMAD2", "SMURF1", "SOCS3", "TBR1", "TGFB1", "TRIM14", "TRIM29", "VEGFA", "WEE1"]}
+{"mirna": "hsa-miR-16-1-3p", "gene": ["BCL2", "CCND1", "CCND2", "CCNE1", "IL17A", "TWIST1", "VEGFA", "VSIR"]}
+{"mirna": "hsa-miR-16-2-3p", "gene": ["RARB"]}
+{"mirna": "hsa-miR-16-5p", "gene": ["ACVR2A", "ADORA2A", "AKT3", "APP", "ARHGDIA", "ARL2", "AXIN2", "BACE1", "BCL2", "BDNF", "BIRC5", "BMI1", "BRCA1", "CADM1", "CAPRIN1", "CCND1", "CCND2", "CCND3", "CCNE1", "CDK6", "CDS2", "CHEK1", "CHUK", "CLDN2", "FGF2", "FGFR1", "GLS2", "HDGF", "HGF", "HMGA1", "HMGA2", "IFNG", "IGF1R", "IL12B", "KDR", "KRAS", "MAP7", "METTL13", "MTOR", "MYB", "NCOR2", "NCSTN", "OPRM1", "PIM1", "PPM1D", "PRDM4", "PTGS2", "PURA", "RAF1", "RECK", "RICTOR", "RPS6KB1", "SLC6A4", "SOCS3", "SOX5", "SOX6", "TP53", "TPPP3", "UCA1", "UNG", "VEGFA", "WEE1", "WNT3A", "WNT4", "YAP1", "ZYX"]}
+{"mirna": "hsa-miR-17-3p", "gene": ["GALNT7", "GPX2", "ICAM1", "ITGA5", "ITGB3", "KDR", "NCOA3", "PTEN", "SOD2", "TIMP3", "TXNRD2", "VIM"]}
+{"mirna": "hsa-miR-17-5p", "gene": ["ABCA1", "ADAR", "APP", "BCL2", "BCL2L11", "BMP2", "BMPR2", "BRCA2", "CCL1", "CCND1", "CCND2", "CDKN1A", "CLOCK", "CLU", "CYP7B1", "DAPK3", "DNAJC27", "DNMT1", "E2F1", "EGR2", "EPAS1", "ETV1", "FBXO31", "GPR137B", "HBP1", "HIF1A", "HSPB2", "IGFBP3", "ITGB8", "JAK1", "KAT2B", "LDLR", "MAP3K12", "MAPK9", "MDM2", "MEF2D", "MFN2", "MMP2", "MYC", "NABP1", "NCOA3", "NPAS3", "NPAT", "PDLIM7", "PHLPP1", "PKD2", "PKNOX1", "PPP2R2A", "PTEN", "PTPRO", "RAD21", "RB1", "RBL1", "RBL2", "RND3", "RUNX1", "SIRPA", "SMAD4", "SMURF1", "SOCS6", "STAT3", "TBC1D2", "TCEAL1", "TCF3", "TGFBR2", "TIMP3", "TLR7", "TNF", "TNFSF12", "TP53COR1", "TP53INP1", "TRIM8", "UBE2C", "VEGFA", "VLDLR", "WEE1", "YES1", "ZBTB4", "ZFYVE9", "ZNFX1"]}
+{"mirna": "hsa-miR-181a-3p", "gene": ["NANOG"]}
+{"mirna": "hsa-miR-181a-5p", "gene": ["ABCG2", "AHR", "ATG5", "ATM", "BAX", "BCL2", "BCL2L11", "CDKN1A", "CDKN1B", "CDX2", "CEBPA", "COL16A1", "CTDSPL", "CTNNB1", "DDIT4", "DDX3X", "DUSP5", "DUSP6", "E2F5", "EGR1", "FOS", "GATA6", "GPD1L", "GPR78", "HIPK2", "HRAS", "IFNG", "INPP4B", "KAT2B", "KLF6", "KRAS", "MAP2K1", "MAPK1", "MCL1", "MEG3", "MTMR3", "NLK", "NOTCH1", "NRAS", "PBX3", "PGR", "PHLPP2", "PLAG1", "PPP3CA", "PRAP1", "PRKCD", "PRKN", "PROX1", "PTEN", "PTPN11", "PTPN22", "RALA", "RAP1B", "RASSF1", "RASSF6", "RGS16", "RGS5", "RNF2", "RUNX1", "SAMHD1", "SIRT1", "STAT3", "TCF4", "TERT", "TGFBR1", "TGFBRAP1", "TIMP1", "TUSC3", "TWIST1", "WIF1", "XIAP", "ZNF763"]}
+{"mirna": "hsa-miR-181b-2-3p", "gene": ["TLR4"]}
+{"mirna": "hsa-miR-181b-3p", "gene": ["NFASC", "YWHAG"]}
+{"mirna": "hsa-miR-181b-5p", "gene": ["ADCY9", "ATM", "BCL2", "BCL2L11", "CARD10", "CBX7", "CDX2", "CREB1", "CYLD", "E2F1", "ELN", "FOS", "GATA6", "GRIA2", "HK2", "HMGB1", "IGF1R", "KAT2B", "KPNA4", "LATS2", "MAP2K1", "MAP3K10", "MCL1", "MEG3", "NFIA", "NLK", "PBX3", "PDCD10", "PDCD4", "PLAG1", "PTEN", "RAP1B", "RASSF1", "RNF2", "SIRT1", "SIX2", "SPP1", "TCL1A", "TIMP3", "TMED7", "VSNL1", "XIAP"]}
+{"mirna": "hsa-miR-181c-5p", "gene": ["BCL2", "BMPR2", "BTBD3", "CDX2", "DPYSL2", "GATA6", "IL2", "IL7", "KRAS", "LATS2", "MECP2", "MST1", "NDRG2", "NLK", "NOTCH4", "PRAP1", "PRKCD", "PTEN", "RAP1B", "SAV1", "SGMS1", "SIRT1", "ST8SIA4", "TGFBR1", "TGFBR2", "TGFBRAP1", "TRIM2"]}
+{"mirna": "hsa-miR-181d-5p", "gene": ["BCL2", "HRAS", "MALT1", "MEG3", "MGMT", "RAP1B"]}
+{"mirna": "hsa-miR-182-3p", "gene": ["FBXW7", "MYADM", "NOX4", "SCO2", "STAT5B"]}
+{"mirna": "hsa-miR-182-5p", "gene": ["ADCY6", "ARRDC3", "ATF1", "BARD1", "BCL2", "BDNF", "CADM1", "CCND2", "CDKN1B", "CHEK2", "CHL1", "CLOCK", "CREB1", "CREB5", "CYLD", "FBXW7", "FGF9", "FLOT1", "FOXF2", "FOXO1", "FOXO3", "GSK3B", "LRRC4", "MITF", "MTSS1", "NDRG1", "NRN1", "NTM", "PCDH8", "PDCD4", "PDK4", "PFN1", "PLD1", "PTEN", "RAD17", "RARG", "RECK", "SATB2", "SMAD4", "SMARCD3", "SNAI2", "TCEAL7", "THBS1", "TIAM1", "TP53BP1", "TP53INP1", "TRIM8", "TSC22D3", "ULBP2", "UQCRFS1", "ZFAND4"]}
+{"mirna": "hsa-miR-1826", "gene": ["CTNNB1", "MAP2K1", "VEGFC"]}
+{"mirna": "hsa-miR-183-3p", "gene": ["SCO2"]}
+{"mirna": "hsa-miR-183-5p", "gene": ["AANAT", "AKAP12", "BMI1", "BTRC", "DKK3", "EGR1", "EZR", "FOXO1", "GSK3B", "IDH2", "ITGB1", "KIF2A", "LRP6", "NFIL3", "PCLAF", "PDCD4", "PPP2CB", "PTPA", "RECK", "SMAD4", "SNAI2", "SOCS6", "UVRAG", "ZEB1", "ZFPM1"]}
+{"mirna": "hsa-miR-184", "gene": ["AGO2", "AKT1", "AKT2", "BCL2", "BIN3", "EZR", "GAS1", "INPPL1", "MYC", "NFATC2", "PDGFB", "PKM", "PLPP3", "PPP1R13L", "PRKCB", "SND1", "SOX7", "TNFAIP2", "ZFPM2"]}
+{"mirna": "hsa-miR-185-3p", "gene": ["AKT1", "STIM1"]}
+{"mirna": "hsa-miR-185-5p", "gene": ["ABCG4", "ALOX12", "AQP3", "AR", "ARC", "ATR", "CAMK2D", "CAMK4", "CASP14", "CDC42", "CDK6", "COL1A1", "DNMT1", "DUSP4", "EPAS1", "EPHB2", "EZH2", "HMGA1", "IGF1R", "IL10RA", "MCM10", "MYC", "MZB1", "NFATC3", "NTRK3", "PLAC8", "RHOA", "SCARB1", "SIX1", "SLC8A1", "SLC9A1", "SMAD7", "SREBF1", "SREBF2", "STIM1", "TG", "TGFB1", "TRIM29", "VEGFA"]}
+{"mirna": "hsa-miR-186-5p", "gene": ["ABCB1", "AKAP12", "CSNK2A1", "FGF2", "FOXO1", "GJA1", "HIF1A", "MAP3K2", "NCSTN", "P2RX7", "PAK5", "PPM1B", "PTTG1", "PVT1", "RELA", "SETD2", "TWIST1", "VEGFA", "XIAP"]}
+{"mirna": "hsa-miR-187-3p", "gene": ["BCL6", "CD276", "CRMP1", "FOXA2", "HIPK3", "S100A4", "TNF"]}
+{"mirna": "hsa-miR-187-5p", "gene": ["ALDH1A3", "CYP1B1"]}
+{"mirna": "hsa-miR-188-3p", "gene": ["CBL"]}
+{"mirna": "hsa-miR-188-5p", "gene": ["CEMIP", "FGF5", "GREM2", "ITGA7"]}
+{"mirna": "hsa-miR-18a-3p", "gene": ["ATM", "CBX7", "KRAS"]}
+{"mirna": "hsa-miR-18a-5p", "gene": ["ATM", "BCL2", "BCL2L10", "CDK19", "CTGF", "DICER1", "DNMT1", "ESR1", "FCGR2B", "HIF1A", "HSF2", "IRF2", "MEF2D", "NEDD9", "NEO1", "NR1I2", "NR3C1", "PHLPP1", "PIAS3", "PTEN", "RUNX1", "SDC4", "SMAD2", "SMAD3", "SMAD4", "STK4", "TBPL1", "TGFBR2", "TNFAIP3", "TNFSF11"]}
+{"mirna": "hsa-miR-18b-5p", "gene": ["CTGF", "ESR1", "FOXN1", "HIF1A", "IGF1", "MDM2", "SMAD2", "TNRC6B"]}
+{"mirna": "hsa-miR-1908-5p", "gene": ["APOE", "DNAJA4", "NKIRAS2", "SKI"]}
+{"mirna": "hsa-miR-190a-5p", "gene": ["FOXP2", "IGF1", "KCNQ5", "MARK2", "PHLPP1"]}
+{"mirna": "hsa-miR-190b", "gene": ["BCL2", "IGF1", "MTMR6", "PTEN"]}
+{"mirna": "hsa-miR-191-5p", "gene": ["BASP1", "CCND2", "CDK6", "CDK9", "CEBPB", "CTDSP2", "EGR1", "IL1A", "LRRC8A", "MDM4", "NDST1", "NOTCH2", "RPS6KA3", "SATB1", "SLC16A2", "SOX4", "TMC7", "YBX3"]}
+{"mirna": "hsa-miR-1915-3p", "gene": ["BCL2"]}
+{"mirna": "hsa-miR-192-3p", "gene": ["NR1H4"]}
+{"mirna": "hsa-miR-192-5p", "gene": ["ACVR2B", "AKT1", "ALCAM", "ATP1B1", "BCL2", "BMI1", "CAV1", "CD47", "CDC7", "CUL5", "DHFR", "DICER1", "DLG5", "DTL", "ERCC3", "ERCC4", "ESR1", "H3F3A", "HOXA10", "HRH1", "ITGAV", "ITGB1", "ITGB3", "KIF20B", "LMNB2", "MAD2L1", "MCM10", "MIS12", "NID1", "NOB1", "PIM1", "PRPF38A", "RACGAP1", "RB1", "SCN5A", "SEPT10", "SERPINE1", "SMARCB1", "TRAPPC2B", "WNK1", "XIAP"]}
+{"mirna": "hsa-miR-193a-3p", "gene": ["CCND1", "E2F1", "E2F6", "ERBB2", "ERBB4", "HMGB1", "HYOU1", "KRAS", "MCL1", "MMP14", "PLAU", "PRAP1", "PTEN", "RAB27B", "RPS6KB2", "SELENON", "SLC7A5", "SRSF2", "TGFB2", "TYMS"]}
+{"mirna": "hsa-miR-193a-5p", "gene": ["ERBB2", "IGF2BP1", "ING5", "MTOR", "NLN", "PIK3R3", "SRR", "TFAP2A", "TP73", "WT1"]}
+{"mirna": "hsa-miR-193b-3p", "gene": ["AKR1C2", "CCND1", "ESR1", "ETS1", "KIT", "KRAS", "MAX", "MCL1", "MYB", "NF1", "PLAU", "PRAP1", "RAD51", "SHMT2", "SMAD3", "YWHAZ"]}
+{"mirna": "hsa-miR-193b-5p", "gene": ["STMN1"]}
+{"mirna": "hsa-miR-194-3p", "gene": ["ARHGEF2"]}
+{"mirna": "hsa-miR-194-5p", "gene": ["ACVR2B", "BCLAF1", "BMI1", "BMP1", "CDH2", "CDKN1B", "CHD1", "DNMT3A", "FOXM1", "HBEGF", "HNF4G", "IGF1R", "IL10", "ITGA9", "ITSN1", "KDM5B", "PTPN12", "PTPN13", "RAC1", "RBX1", "SOCS2", "SOX5", "TLN2"]}
+{"mirna": "hsa-miR-195-3p", "gene": ["FGF2", "MFN2"]}
+{"mirna": "hsa-miR-195-5p", "gene": ["ARL2", "ATG14", "BCL2", "BCL2L2", "BIRC5", "BTRC", "Bace1", "CAB39", "CBX4", "CCL4", "CCND1", "CCND3", "CCNE1", "CDC25A", "CDC42", "CDK4", "CDK6", "CDK8", "CHEK1", "CHUK", "DICER1", "E2F3", "ELN", "FASN", "FGF2", "HMGA1", "INSR", "KDR", "KIAA0100", "MBD1", "MYB", "NKD1", "RAF1", "RET", "RPS6KB1", "RUNX2", "SLC2A3", "SMAD7", "TAB3", "TBCCD1", "VEGFA", "WEE1", "WNT7A", "YAP1"]}
+{"mirna": "hsa-miR-196a-3p", "gene": ["FGF2"]}
+{"mirna": "hsa-miR-196a-5p", "gene": ["ANXA1", "BACH1", "CDKN1A", "CDKN1B", "ELOVL1", "FOXO1", "HMGA1", "HMGA2", "HMOX1", "HOXA10", "HOXA5", "HOXA7", "HOXB7", "HOXB8", "HOXC8", "HOXD8", "KRT5", "LSP1", "MAMDC2", "NFKBIA", "NRP2", "NTN4", "RDX", "S100A9", "SPRR2C", "SSSCA1", "TGFBR2", "TYMS"]}
+{"mirna": "hsa-miR-196b-5p", "gene": ["AKT1", "CD8A", "ETS2", "FAS", "FOS", "GATA6", "HOXA9", "HOXB7", "HOXB8", "HOXC8", "IGF2BP1", "MEIS1", "MTOR", "PIK3CG", "RDX", "TGFBR2"]}
+{"mirna": "hsa-miR-197-3p", "gene": ["BMF", "CD82", "FOXJ2", "FOXO3", "MAPK1", "MTHFD1", "NSUN5", "PMAIP1", "RAN", "TUSC2"]}
+{"mirna": "hsa-miR-197-5p", "gene": ["IGFBP5"]}
+{"mirna": "hsa-miR-198", "gene": ["BIRC7", "CCND2", "CCNT1", "FGFR1", "FSTL1", "JAK3", "MET", "NNAT", "PBX1"]}
+{"mirna": "hsa-miR-199a-3p", "gene": ["APOE", "CAV2", "CD44", "CDK7", "DNAJA4", "FLT1", "FOXA2", "FUT4", "HGF", "IGF1", "ITGA3", "KDR", "MAPK1", "MET", "MTOR", "PAK4", "PTGS2", "SMARCA2", "STK11", "TFAM", "VEGFA", "YAP1", "ZHX1"]}
+{"mirna": "hsa-miR-199a-5p", "gene": ["ACVR1B", "APOE", "ARHGAP12", "ATF6", "BECN1", "CAV1", "CCR7", "CD44", "CDH1", "CDH2", "CDKN1C", "CLTC", "CTSC", "DDR1", "DNAJA4", "DRAM1", "EDN1", "ERBB2", "ERBB3", "ERN1", "ETS1", "FZD4", "FZD6", "GPR78", "GSK3B", "HIF1A", "HK2", "HSPA5", "IKBKB", "ITGA3", "JAG1", "JUNB", "KL", "KRAS", "LDLR", "LIF", "LIN7A", "MAFB", "MAP3K11", "MAP4K3", "NECTIN1", "NFKB1", "OSCP1", "PDE4D", "PIAS3", "PIK3CD", "PSMD9", "PTGS2", "RAB21", "RND1", "SETD2", "SIRT1", "SLC27A1", "SMAD3", "SMAD4", "SMARCA2", "SNAI1", "SULT1E1", "TGFB2", "TGFBR1", "TMEM54", "UNG", "VEGFA", "WNK1", "WNT2"]}
+{"mirna": "hsa-miR-199b-3p", "gene": ["ITGA3", "PAK4"]}
+{"mirna": "hsa-miR-199b-5p", "gene": ["CCNL1", "DDR1", "ERBB2", "GRB10", "HES1", "HIF1A", "ITGA3", "JAG1", "KIT", "LAMC2", "NLK", "PODXL", "SET", "SETD2", "SIRT1", "TAF9B"]}
+{"mirna": "hsa-miR-19a-3p", "gene": ["ABCA1", "ADRB1", "AKT1", "ALOX5", "ATXN1", "BCL2L11", "BMPR2", "CCND1", "CD22", "CUL5", "DNMT1", "DPYSL2", "ERBB4", "ESR1", "FOXP1", "HOXA5", "IL10", "IMPDH1", "KIT", "MAP3K5", "MECP2", "MEF2D", "MSMO1", "MTUS1", "MXD1", "MYCN", "NPEPL1", "NR4A2", "PHLPP1", "PIK3CA", "PKNOX1", "PMEPA1", "PRMT5", "PSAP", "PTEN", "RAB13", "RAB14", "RHOB", "SIVA1", "SMAD4", "SOCS1", "SOCS3", "SUZ12", "TF", "TGFBR2", "TLR2", "TLR7", "TNF", "TNFAIP3", "TNFRSF12A", "TP53INP1", "TUSC2", "VPS4B", "ZBTB4"]}
+{"mirna": "hsa-miR-19a-5p", "gene": ["BTG1", "TIA1", "TIMP1", "TNFAIP3"]}
+{"mirna": "hsa-miR-19b-1-5p", "gene": ["CCND1", "FGFR2"]}
+{"mirna": "hsa-miR-19b-3p", "gene": ["ATXN1", "BCL2L11", "BCL3", "BMPR2", "CUL5", "CYP19A1", "DNMT1", "ESR1", "GCM1", "HIPK1", "HIPK3", "MTUS1", "MXD1", "MYCN", "MYLIP", "PITX1", "PKNOX1", "PPP2R5E", "PRKAA1", "PTEN", "SMAD4", "SOCS1", "TGFBR2", "TLR2", "TNFAIP3", "TP53"]}
+{"mirna": "hsa-miR-200a-3p", "gene": ["AREG", "ATRX", "BAP1", "CCNE2", "CDK6", "CTNNB1", "DEK", "DLC1", "DLX5", "DNMT1", "EGFR", "ELMO2", "ERBIN", "EZH2", "FOXA2", "GDAP1", "GEMIN2", "GJA1", "GRB2", "HFE", "HGF", "HMGB1", "HOXB5", "KEAP1", "KLF11", "KLHL20", "MACC1", "MALAT1", "MAPK14", "MFF", "MNX1", "MYB", "MYH10", "PDCD4", "PTEN", "PTPRD", "RASSF2", "RIN2", "SEPT7", "SHC1", "SMAD2", "SMAD3", "SPAG9", "SRF", "TCF7L1", "TFAM", "TGFB2", "THRB", "TP53", "TP73-AS1", "TRAPPC2B", "UBASH3B", "VAC14", "WASF3", "WDR37", "YAP1", "ZEB1", "ZEB2", "ZFPM2", "foxg1a"]}
+{"mirna": "hsa-miR-200a-5p", "gene": ["CTNNB1", "PTEN", "SOX17"]}
+{"mirna": "hsa-miR-200b-3p", "gene": ["ADAM12", "ATG12", "BAP1", "BCL2", "BMI1", "BTC", "CCNE2", "CD274", "CDKN1B", "CREB1", "CRKL", "DDX53", "DLC1", "DNMT1", "DNMT3A", "DNMT3B", "E2F3", "ELMO2", "ERBIN", "ETS1", "ETV5", "EZH2", "FERMT2", "FLT1", "FN1", "FOXG1", "FSCN1", "GATA4", "HFE", "HNRNPA3", "HOXB5", "IKBKB", "JUN", "KDR", "KLF11", "KLHL20", "LDHA", "LOX", "MALAT1", "MAPK7", "MATR3", "MSN", "MYB", "NOTCH1", "OXR1", "PHLPP1", "PIN1", "PTPN12", "PTPRD", "QRSL1", "RAB18", "RAB21", "RAB23", "RAB3B", "RASSF2", "RERE", "RHOA", "RIN2", "RND3", "RNF2", "ROCK2", "SEC23A", "SEPT7", "SHC1", "SMAD2", "SP1", "SUZ12", "TCF7L1", "VAC14", "VEGFA", "WASF3", "WDR37", "WNT1", "XIAP", "ZEB1", "ZEB2", "ZFPM2"]}
+{"mirna": "hsa-miR-200b-5p", "gene": ["ATG12", "PROM1", "RHOA"]}
+{"mirna": "hsa-miR-200c-3p", "gene": ["ACVR2B", "ADAM12", "ATRX", "BAP1", "BCL2", "BMI1", "BRD7", "BTC", "CCNE2", "CDH11", "CDK2", "CFL2", "CRKL", "DLC1", "DNAJC3", "DNMT3A", "DNMT3B", "DUSP1", "E2F3", "EDNRA", "EFNA1", "ELMO2", "ERBIN", "ERRFI1", "ETS1", "FBLN5", "FLT1", "FN1", "FOXO1", "GATA4", "GEMIN2", "HFE", "HOXB5", "IKBKB", "JAZF1", "KDR", "KLF11", "KLF9", "KLHL20", "KRAS", "LEPR", "LPAR1", "MALAT1", "MSN", "MYB", "MYLK", "NCAM1", "NOS3", "NOTCH1", "NTF3", "NTRK2", "PDCD10", "PIN1", "PMAIP1", "PRKCZ", "PTEN", "PTPN13", "PTPRD", "RASSF2", "RCOR3", "RHOA", "RIN2", "RND3", "RNF2", "ROCK2", "RPS6KB1", "SEC23A", "SEPT7", "SH3PXD2A", "SHC1", "SIRT1", "SLC1A2", "SP1", "SUZ12", "TBK1", "TCF7L1", "TIMP2", "TUBB3", "UBQLN1", "USP25", "VAC14", "VEGFA", "WDR37", "XIAP", "ZEB1", "ZEB2", "ZFPM1", "ZFPM2", "ZNF217"]}
+{"mirna": "hsa-miR-200c-5p", "gene": ["BMI1", "CDH1", "CYP1B1", "E2F3", "PTEN"]}
+{"mirna": "hsa-miR-202-3p", "gene": ["ARL5A", "GLI1", "HAS2", "LRP6", "MALAT1", "MMP1", "MYCN", "PDCD4", "SOX6", "TNFSF13B"]}
+{"mirna": "hsa-miR-202-5p", "gene": ["TGFBR1", "TGFBR2", "TNFSF13B"]}
+{"mirna": "hsa-miR-203a-3p", "gene": ["ABCE1", "ABL1", "AKT2", "ASAP1", "ATM", "BANF1", "BCL2L2", "BIRC5", "BMI1", "CASK", "CAV1", "CBLL1", "CDH1", "CDK6", "CREB1", "DLX5", "E2F1", "E2F3", "EDNRA", "EYA4", "FGF2", "GDAP1", "HOXD3", "IFIT1", "IL24", "JUN", "KIF2A", "KIF5B", "LASP1", "LIFR", "LIN28B", "MMP10", "MYD88", "NR2C2", "PIK3CA", "PLD2", "RAB22A", "RAN", "RAP1A", "RAPH1", "RUNX2", "SMAD4", "SNAI1", "SNAI2", "SOCS3", "SOCS6", "SRC", "STAT1", "TBK1", "TCF4", "TJP2", "TNF", "TP63", "TYMS", "UVRAG", "VEGFA", "WIF1", "ZEB2", "ZNF148"]}
+{"mirna": "hsa-miR-203a-5p", "gene": ["CCND2", "CDK6", "CDKN1A", "CDKN1B", "MMP2", "MMP7", "RAP1A", "SFRP4", "TM4SF1", "UVRAG", "ZNF217"]}
+{"mirna": "hsa-miR-204-3p", "gene": ["ATF2", "KHDRBS1", "PPM1K", "RGS5"]}
+{"mirna": "hsa-miR-204-5p", "gene": ["ALPL", "ANKRD13A", "AP1S2", "BCL2", "BCL2L2", "BDNF", "BIRC2", "CDC42", "CDH1", "CREB1", "CREB5", "CXCR4", "CYBB", "DVL3", "EDEM1", "EFNB2", "ELOVL6", "EZR", "FOXC1", "FOXM1", "FZD1", "HMGA2", "HMX1", "HOXA10", "IGFBP2", "IL11", "ITPR1", "JAK2", "M6PR", "MALAT1", "MAP1LC3B", "MAP2K1", "MEIS1", "MEIS2", "MMP9", "MX1", "NTRK2", "RAB22A", "RAB40B", "RUNX2", "SERINC3", "SERP1", "SIRT1", "SIX1", "SMAD4", "SNAI1", "SNAI2", "SOST", "SOX4", "SPDEF", "TCF12", "TCF4", "TGFBR2", "THRB", "TMPRSS3", "TRPM3", "TXNIP", "UCA1", "USP47", "VIM"]}
+{"mirna": "hsa-miR-205-3p", "gene": ["COMMD1", "FGF2", "VEGFA"]}
+{"mirna": "hsa-miR-205-5p", "gene": ["ACSL1", "ACSL4", "AR", "BCL2", "BCL6", "CCNJ", "CENPF", "CTGF", "CYR61", "E2F1", "E2F5", "EGLN2", "ERBB2", "ERBB3", "ESRRG", "EZR", "HMGB1", "HMGB3", "IL24", "IL32", "INPPL1", "ITGA5", "KCNJ10", "LAMC1", "LMNA", "LRP1", "LRRK2", "MED1", "PHLPP2", "PRDX2", "PTEN", "PTPRM", "RUNX2", "SATB2", "SMAD1", "SMAD2", "SMAD4", "SRC", "TP73", "UVRAG", "VEGFA", "YES1", "YY1", "ZEB1", "ZEB2"]}
+{"mirna": "hsa-miR-206", "gene": ["ACTL6A", "AKT1", "ANXA2", "CCL2", "CCND1", "CCND2", "CDK4", "ESR1", "FSTL1", "G6PD", "GJA1", "GPD2", "KRAS", "MET", "NOTCH3", "NR1H3", "NR4A2", "NRP1", "OTX2", "PAX3", "PGD", "SFRP1", "SMAD2", "SOD1", "SOX9", "TAC1", "TBX3", "TKT", "TWF1", "TWIST1", "UTRN", "VAMP2", "VEGFA"]}
+{"mirna": "hsa-miR-208a-3p", "gene": ["CACNA1C", "CACNB2", "CDKN1A", "ETS1", "MED13", "PDCD4", "QKI", "Qk", "SOX6"]}
+{"mirna": "hsa-miR-208b-3p", "gene": ["CACNA1C", "CACNB2", "CDKN1A", "QKI", "Qk"]}
+{"mirna": "hsa-miR-20a-3p", "gene": ["BID", "EGR2", "NR4A3", "PTEN", "SMO"]}
+{"mirna": "hsa-miR-20a-5p", "gene": ["ABL2", "ANKH", "APP", "ARHGAP12", "ATG16L1", "BAMBI", "BCL2", "BCL2L11", "BMPR2", "BNIP2", "CCND1", "CCND2", "CDKN1A", "CRIM1", "DAPK3", "DNMT1", "DUSP2", "E2F1", "EGLN3", "EGR2", "EPAS1", "ETV1", "FBXO31", "GJA1", "HIF1A", "IRF2", "ITGB8", "KIF26B", "KIT", "LIMK1", "MAP2K3", "MAP3K12", "MAP3K5", "MCL1", "MEF2D", "MYC", "NFKBIB", "PHLPP2", "PKD1", "PKNOX1", "PPARG", "PPP2R2A", "PRKG1", "PTEN", "PTPRO", "PURA", "RB1", "RB1CC1", "RBL1", "RBL2", "REST", "RGS5", "RUNX1", "RUNX3", "SIRPA", "SMAD4", "SMAD7", "STAT3", "TCEAL1", "TGFBR1", "TGFBR2", "TIMP2", "TP53INP1", "TSG101", "UBE2C", "VEGFA", "Vegfa", "WEE1", "ZFYVE9"]}
+{"mirna": "hsa-miR-20b-3p", "gene": ["NCOA3"]}
+{"mirna": "hsa-miR-20b-5p", "gene": ["AKT3", "ARID4B", "BAMBI", "BRCA1", "CDKN1A", "CRIM1", "EFNB2", "EPHB4", "ESR1", "FZD6", "HIF1A", "HIPK3", "MAPK9", "MYLIP", "PPARG", "PTEN", "RB1CC1", "STAT3", "VEGFA"]}
+{"mirna": "hsa-miR-21-3p", "gene": ["FASLG", "HPGD", "MAT2A", "MAT2B", "PDCD4", "PTEN", "RBPMS", "RCBTB1", "STAT3", "ZNF350", "ZNF608"]}
+{"mirna": "hsa-miR-21-5p", "gene": ["ABCB1", "AKT2", "ANKRD46", "ANP32A", "APAF1", "BASP1", "BCL10", "BCL2", "BCL6", "BMI1", "BMPR2", "BTG2", "CADM1", "CASC2", "CASP8", "CBX4", "CCL20", "CDC25A", "CDK2AP1", "CEBPB", "CLU", "COL4A1", "COX2", "DAXX", "DDAH1", "DERL1", "DNM1L", "DOCK4", "DOCK5", "DOCK7", "DUSP10", "E2F1", "EGFR", "EGLN1", "EIF4A2", "ERBB2", "FASLG", "FBXO11", "FMOD", "FOXO1", "FZD6", "GAS5", "GDF5", "HMGB1", "HNRNPK", "HPGD", "ICAM1", "ICOSLG", "IGF1R", "IL12A", "IL1B", "IRAK1", "ISCU", "JAG1", "JMY", "LRP6", "LRRFIP1", "MAP2K3", "MARCKS", "MEF2C", "MSH2", "MSH6", "MSLN", "MTAP", "MYD88", "NAV3", "NCAPG", "NFIA", "NFIB", "NTF3", "OXTR", "PCBP1", "PCGF2", "PDCD4", "PIAS3", "PIK3R1", "PLAT", "PLOD3", "PPARA", "PPIF", "PSMD9", "PTEN", "PTPN14", "RASA1", "RASGRP1", "RECK", "REST", "RHO", "RHOB", "RPS7", "RTN4", "SATB1", "SERPINB5", "SERPINI1", "SETD2", "SIRT2", "SMAD7", "SMARCA4", "SMN1", "SOCS1", "SOCS6", "SOD3", "SOX2", "SOX5", "SP1", "SPRY2", "STAT3", "STUB1", "Smad7", "TAP1", "TCF21", "TGFB2", "TGFBI", "TGFBR2", "TGFBR3", "TGIF1", "TIAM1", "TICAM2", "TIMP3", "TLR3", "TM9SF3", "TNFRSF10B", "TOPORS", "TP53BP2", "TP63", "TPM1", "TRAF7", "UBE2N", "VEGFA", "VHL", "WWP1", "YOD1"]}
+{"mirna": "hsa-miR-210-3p", "gene": ["AIFM3", "ALDH5A1", "ATG7", "BDNF", "BNIP3", "BTK", "CASP8AP2", "COL4A2", "CPEB2", "DDAH1", "DIMT1", "E2F3", "EFNA3", "EHD2", "FGFRL1", "FOXN3", "FOXP3", "Fgfrl1", "GPD1L", "HIF1A", "HIF3A", "HOXA1", "HOXA9", "HSD17B1", "IGFBP3", "INPP5A", "ISCU", "KCMF1", "LDHA", "LDHB", "MCM3", "MNT", "NCAM1", "NDUFA4", "NPTX1", "P4HB", "PIM1", "PLK1", "PTBP3", "PTPN1", "PTPN2", "RAD52", "SDHD", "SH3BGRL", "STMN1", "TFRC", "THSD7A", "TP53I11", "TWIST1", "VMP1", "XIST"]}
+{"mirna": "hsa-miR-210-5p", "gene": ["CFB", "SMR3B"]}
+{"mirna": "hsa-miR-211-3p", "gene": ["PPM1K", "RGS5"]}
+{"mirna": "hsa-miR-211-5p", "gene": ["AP1S2", "BCL2", "CCND1", "CDH5", "CDK6", "CREB5", "DDIT3", "ELOVL6", "HMX1", "IGF2R", "IGFBP5", "IL10RA", "IL11", "ITPR1", "KCNMA1", "M6PR", "MAP2K1", "MUC4", "MX1", "NFAT5", "NUAK1", "PDE3A", "POU3F2", "RAB22A", "SATB2", "SERINC3", "SNAI1", "SOX4", "SPARC", "SSRP1", "TCF12", "TGFB1", "TGFBR2", "TXNIP"]}
+{"mirna": "hsa-miR-212-3p", "gene": ["ABCG2", "ACHE", "ADCY1", "CCNA2", "CCNB1", "IRAK4", "KCNJ2", "MECP2", "MYC", "PEA15", "PTCH1", "PXN", "RB1", "RBP2", "RFXAP", "SGK3", "SMAD2", "SOD2", "SOX11", "SOX4", "TJP1"]}
+{"mirna": "hsa-miR-212-5p", "gene": ["MAF", "TJP1"]}
+{"mirna": "hsa-miR-214-3p", "gene": ["ALPK2", "ARL2", "ASF1B", "ATF4", "BAX", "BCL2L11", "BCL2L2", "BIRC5", "CADM1", "CCL5", "CD274", "CDK6", "CPD", "CTNNB1", "EZH2", "FGFR1", "GALNT7", "GSR", "HDGF", "ING4", "JAG1", "LTF", "LZTS1", "MAP2K3", "MAPK1", "MAPK8", "MEF2C", "NRAS", "PAPPA", "PIM1", "PLXNB1", "POR", "POU4F2", "PSMD10", "PTEN", "QKI", "RAB15", "SEMA4D", "SRGAP1", "SRGAP2", "SUFU", "TP53", "TWIST1", "UBE2I", "XBP1"]}
+{"mirna": "hsa-miR-214-5p", "gene": ["CDK3", "CDK6", "E2F2", "IGF1R", "ITCH", "RASSF5", "TP53"]}
+{"mirna": "hsa-miR-215-3p", "gene": ["FOXO1"]}
+{"mirna": "hsa-miR-215-5p", "gene": ["ACVR2B", "ALCAM", "CTNNBIP1", "KDM1B", "NID1", "PTPRT", "RB1", "RUNX1", "SIGLEC8", "WNK1", "XIAP", "ZEB2"]}
+{"mirna": "hsa-miR-216a-5p", "gene": ["BECN1", "CBL", "CD44", "CDC42", "CEMIP", "HNF4A", "JAK2", "PTEN", "SMAD7"]}
+{"mirna": "hsa-miR-216b-3p", "gene": ["SDCBP"]}
+{"mirna": "hsa-miR-216b-5p", "gene": ["BECN1", "CSNK2A1", "FOXM1", "HDAC8", "JUN", "KRAS", "PARP1", "PBK", "UGT2B7"]}
+{"mirna": "hsa-miR-217", "gene": ["DACH1", "DNMT1", "E2F3", "EZH2", "FHIT", "FOXO3", "GPC5", "IGF1R", "KRAS", "MTDH", "NR4A2", "PTEN", "PTPN14", "ROBO1", "SIRT1", "SMAD7", "YWHAG"]}
+{"mirna": "hsa-miR-218-1-3p", "gene": ["PIK3C2A", "PIK3R1"]}
+{"mirna": "hsa-miR-218-2-3p", "gene": ["CDC27", "ROBO1", "SLIT3"]}
+{"mirna": "hsa-miR-218-5p", "gene": ["BCL9", "BIRC5", "BMI1", "CDH2", "CDK6", "DKK2", "E2F2", "EGFR", "GJA1", "GLI2", "HMGB1", "HMOX1", "HOXB3", "IKBKB", "KIT", "LAMB3", "LASP1", "LEF1", "LGR4", "MITF", "MMP2", "OTUD7B", "PDGFRA", "POU2F2", "RET", "RICTOR", "ROBO1", "RPS6KA3", "RPS6KB1", "RUNX2", "SFRP2", "SH3GL1", "SMO", "SOST", "SP1", "TFF1", "TOB1", "VOPP1", "VPS51", "WASF3"]}
+{"mirna": "hsa-miR-219a-1-3p", "gene": ["MUC4"]}
+{"mirna": "hsa-miR-219a-5p", "gene": ["CAMK2G", "EGFR", "GPC3", "P2RX5", "SALL4", "T"]}
+{"mirna": "hsa-miR-22-3p", "gene": ["ACLY", "AKT1", "ARPC5", "BDNF", "BMP6", "BMP7", "BMPR1B", "BSG", "BTG1", "CCNA2", "CD151", "CDKN1A", "CSF1R", "CXCR2", "CYR61", "ERBB2", "ERBB3", "ESR1", "HDAC4", "HDAC6", "HIF1A", "HMGB1", "HTR2C", "IRF5", "LGALS1", "LGALS9", "MALAT1", "MAOA", "MECOM", "MMP14", "MTA1", "MTDH", "MTHFR", "MYCBP", "NCOA1", "NET1", "NTRK2", "PLK1", "PPARA", "PPM1K", "PTEN", "PTMS", "RAB5B", "RCOR1", "RGS2", "SIRT1", "SLC2A1", "SNAI1", "SP1", "TACC1", "TCEAL1", "TCF7", "TET2", "TFRC", "TIAM1", "UBR5", "WNT1"]}
+{"mirna": "hsa-miR-22-5p", "gene": ["BSG", "YWHAZ"]}
+{"mirna": "hsa-miR-221-3p", "gene": ["ADAM1A", "ADAMTS6", "ANXA1", "APAF1", "ARF4", "ARNT", "ASZ1", "BBC3", "BCL2L11", "BECN1", "BMF", "BNIP3", "BNIP3L", "CDKN1B", "CDKN1C", "CERS2", "CORO1A", "CREBZF", "CTCF", "CXCL12", "DDIT4", "DICER1", "DIRAS3", "DKK2", "DVL2", "ESR1", "ETS1", "FMR1", "FOS", "FOXO3", "GJA1", "GRB10", "HECTD2", "HOXB5", "ICAM1", "KIT", "MBD2", "MDM2", "MEOX2", "MGMT", "MMP2", "MYBL1", "NAIP", "PAK1", "PIK3R1", "PTEN", "RAB1A", "RAD51", "RB1", "RECK", "RUNX1", "SOCS1", "SOCS3", "SSX2IP", "STAT5A", "STMN1", "TBK1", "TCEAL1", "TICAM1", "TIMP3", "TMED7", "TNFSF10", "TRPS1", "WEE1", "ZEB2"]}
+{"mirna": "hsa-miR-221-5p", "gene": ["CDKN1B", "CDKN1C", "IL6R", "MBD2", "RUNX2", "SSSCA1"]}
+{"mirna": "hsa-miR-222-3p", "gene": ["ABCG2", "ADAM1A", "ARID1A", "BBC3", "BMF", "CDKN1B", "CDKN1C", "CERS2", "CORO1A", "DICER1", "DIRAS3", "DKK2", "ESR1", "ETS1", "FOS", "FOXO1", "FOXO3", "GAS5", "GJA1", "GNAI2", "GNAI3", "GRB10", "ICAM1", "KIT", "MGMT", "MMP1", "PLXNC1", "PPP2R2A", "PRDM1", "PTEN", "RECK", "RUNX2", "SMAD5", "SOD2", "SSSCA1", "SSX2IP", "STAT5A", "TCEAL1", "TIMP3", "TMED7", "TNFSF10", "TRPS1", "VGLL4"]}
+{"mirna": "hsa-miR-222-5p", "gene": ["CDKN1C", "SSSCA1"]}
+{"mirna": "hsa-miR-223-3p", "gene": ["ABCB1", "ARTN", "ATM", "CAPRIN1", "CARM1", "CCL3", "CDC27", "CDK2", "CFTR", "CHUK", "CXCL2", "CYB5A", "E2F1", "ECT2", "EPB41L3", "FBXW7", "FOXO1", "FOXO3", "HAX1", "HSP90B1", "IGF1R", "IL6", "LIF", "LMO2", "MAFB", "MEF2C", "MYL9", "NFIA", "NFIX", "NLRP3", "PARP1", "PAX6", "POLR3G", "PRDM1", "PTBP2", "RHOB", "SCARB1", "SEMA3A", "SLC2A4", "SP1", "SP3", "STAT1", "STAT3", "STAT5A", "STMN1", "TAL1", "TOX", "ZEB1"]}
+{"mirna": "hsa-miR-223-5p", "gene": ["EGF", "FBXO8", "FBXW7", "IGF1R", "RAB12"]}
+{"mirna": "hsa-miR-224-3p", "gene": ["ATG5", "FUT4", "RB1CC1"]}
+{"mirna": "hsa-miR-224-5p", "gene": ["AP2M1", "API5", "APLN", "BCL2", "CASP3", "CASP7", "CDC42", "CDH1", "CXCR4", "DIO1", "DPYSL2", "EDNRA", "EYA4", "GSK3B", "HOXD10", "KLK10", "KRAS", "MBD2", "MTOR", "PAK2", "PEBP1", "PHLPP1", "PHLPP2", "PTX3", "RAC1", "RASSF8", "SERPINF2", "SMAD4", "TCEAL1", "TPD52", "TRIB1"]}
+{"mirna": "hsa-miR-2355-3p", "gene": ["ATG12"]}
+{"mirna": "hsa-miR-23a-3p", "gene": ["APAF1", "ATAT1", "CDH1", "CHUK", "CXCL12", "CXCL8", "FANCG", "FAS", "FOXA1", "FOXO3", "FZD5", "G6PC", "GJA1", "GLS", "HES1", "HMGB2", "HMGN2", "HNF1B", "HOXB4", "HSP90AA1", "IL6R", "IRF1", "KLF3", "LAMP1", "LDHA", "LDHB", "LPAR1", "LRP5", "MEF2C", "MT2A", "MYH1", "MYH2", "MYH4", "NEK6", "POU4F2", "PPARGC1A", "PPP2R5E", "PTEN", "PTPN11", "RGS5", "SMAD3", "SMAD5", "SPRY2", "ST7L", "STAT3", "TERF2", "TMEM64", "TOP1", "TSC1", "XIAP"]}
+{"mirna": "hsa-miR-23a-5p", "gene": ["APAF1", "GJA1", "LAMP1", "TGFB2", "TLR2"]}
+{"mirna": "hsa-miR-23b-3p", "gene": ["ATG12", "CA2", "CCNG1", "CHUK", "ETS1", "G3BP2", "GJA1", "HMGA2", "HMGB2", "MARCKS", "MET", "NOTCH1", "NOTCH2", "PLAU", "PRAP1", "PRDX3", "PRKACB", "PTEN", "PTK2B", "RGS5", "RRAS2", "RUNX2", "SIRT1", "SRC", "TAB2", "TAB3", "TGIF1", "TMEM64", "TUSC7", "VCAN", "VHL", "ZEB1"]}
+{"mirna": "hsa-miR-23b-5p", "gene": ["PRODH", "SMAD3", "TGFB2", "TGFBR2"]}
+{"mirna": "hsa-miR-23c", "gene": ["ELAVL1", "MALAT1"]}
+{"mirna": "hsa-miR-24-1-5p", "gene": ["ANGPTL2", "FOXM1", "HIF1AN", "HNF4A", "SLITRK1", "WNK1"]}
+{"mirna": "hsa-miR-24-2-5p", "gene": ["BCL2", "SPRY2"]}
+{"mirna": "hsa-miR-24-3p", "gene": ["ABCB9", "ACVR1B", "AGPAT2", "ARHGAP19", "ATG4A", "AURKB", "BCAR1", "BCL2L11", "BRCA1", "CARD10", "CCNA2", "CCND1", "CDK1", "CDK4", "CDKN1B", "CDKN2A", "CHEK1", "COPS5", "CORO1A", "CYP11B2", "DEDD", "DHFR", "DHFRP1", "DND1", "DYRK2", "E2F2", "EIF2S3", "FAF1", "FBXW7", "FEN1", "FGF11", "FGFR3", "FSCN1", "FURIN", "GATA3", "H2AFX", "HMOX1", "HNF4A", "IFNG", "IFNR", "IL4", "INSIG1", "JPH2", "LDHA", "LDHB", "MAFB", "MAP3K9", "MAPK14", "MAPK7", "MEN1", "MLEC", "MMP14", "MT1M", "MXI1", "MYC", "NCAN", "NCSTN", "NDST1", "NOS3", "NOTCH1", "PAK4", "PCNA", "PDGFRB", "POLD1", "PRDX6", "PRKCH", "PSAP", "PTPN9", "PTPRF", "REG4", "S100A8", "SH3PXD2A", "SLC6A4", "SP1", "SSSCA1", "ST7L", "STX16", "TACC3", "TGFB1", "TMED7", "TMEM92", "TNK2", "TP53", "TRIB3", "TRIM11", "WNT4", "XIAP", "ZNF217"]}
+{"mirna": "hsa-miR-25-3p", "gene": ["ATP2A2", "BCL2L11", "CCL26", "CDH1", "CDKN1C", "CPEB1", "CYP2B6", "DHFR", "DSC2", "ERBB2", "EZH2", "FBXW7", "HAND2", "KAT2B", "KLF4", "LATS2", "MAP2K4", "MDM2", "PRMT5", "PTEN", "RECK", "REV3L", "RGS3", "SEMA4C", "SMAD7", "TCEAL1", "TNFSF10", "TP53", "WDR4"]}
+{"mirna": "hsa-miR-25-5p", "gene": ["CCNE1", "MYC", "PRKCZ"]}
+{"mirna": "hsa-miR-26a-1-3p", "gene": ["ACSL3", "ACSL4", "E2F3", "GSK3B", "PCK1", "PRKCD", "PTEN", "TCF7L2"]}
+{"mirna": "hsa-miR-26a-5p", "gene": ["ABCA1", "ACVR1", "ADAM17", "AMACR", "ARL4C", "ATM", "BAG4", "CCND2", "CCNE1", "CCNE2", "CDC6", "CDK6", "CHD1", "CHEK1", "CKS2", "CPEB2", "CPEB3", "CPEB4", "DNMT3B", "DUSP4", "DUSP5", "E2F2", "ESR1", "EZH2", "FGF9", "FUT8", "GDAP1", "GSK3B", "HGF", "HMGA1", "HMGA2", "HOXA5", "IFNB1", "IGF1", "IL6", "ITGA5", "JAG1", "LARP1", "LIN28B", "LOXL2", "MALT1", "MAP3K2", "MCL1", "MTDH", "NAMPT", "NOS2", "NRAS", "NRP1", "PHB", "PIK3C2A", "PIK3CG", "PLAG1", "PLOD2", "PRDX3", "PRKCD", "PTEN", "PTGS2", "PTPN13", "RB1", "RCBTB1", "SERBP1", "SMAD1", "SMAD4", "ST3GAL6", "ST8SIA4", "TDG", "TET2", "TRPC6", "WEE1", "ZCCHC11"]}
+{"mirna": "hsa-miR-26b-3p", "gene": ["COX2", "ESR1"]}
+{"mirna": "hsa-miR-26b-5p", "gene": ["ABCA1", "ARL4C", "CCNE1", "CDK6", "CHORDC1", "COL1A2", "COX2", "CTGF", "EPHA2", "EZH2", "FH", "GATA4", "HAS2", "HGF", "IGF1", "IGF1R", "JAG1", "KPNA2", "LARP1", "MIEN1", "NAMPT", "NR2C2", "PDE4A", "PLOD2", "PTEN", "PTGS2", "RB1", "SMAD1", "ST8SIA4", "TAB1", "TLR4", "TRAF5", "ULK2", "USP9X"]}
+{"mirna": "hsa-miR-27a-3p", "gene": ["ABCA1", "APC", "BTG2", "CCND1", "CDC27", "DKK2", "DPYD", "EGFR", "FBXW7", "FOXO1", "FSTL1", "GATA2", "GATA3", "GRB2", "GSK3B", "HIF1A", "HIPK2", "HMGCR", "HOXA10", "IFNG", "IFNR", "IGF1", "KRAS", "LAMP2", "LDLR", "MAP2K4", "MAPK14", "MET", "MRC1", "MYT1", "NFE2L2", "PAX3", "PDS5B", "PHB", "PHLPP2", "PIK3CG", "PINK1", "PLAG1", "PPARG", "PRKAA2", "PSAP", "RARA", "RXRA", "SEMA6A", "SEMA7A", "SFRP1", "SIGLEC1", "SLC6A8", "SLC7A11", "SMAD2", "SMAD4", "SMAD5", "SP1", "SP3", "SP4", "SPRY2", "TFPI", "THRB", "TP53", "TRIM27", "WDR77", "WEE1", "WNK1", "YAP1", "YWHAZ", "ZBTB10"]}
+{"mirna": "hsa-miR-27a-5p", "gene": ["EGFR", "GREM1", "MXI1", "PEBP1", "PPARA", "SFRP1", "SNAP25", "TXN2"]}
+{"mirna": "hsa-miR-27b-3p", "gene": ["ABCA1", "ADORA2B", "CCNA2", "CCNG1", "CCNT1", "CDH11", "CDH5", "CREB1", "CRISP2", "CX3CL1", "CYP1B1", "CYP3A4", "DPYD", "EDNRA", "EGFR", "EYA4", "FOXJ3", "FOXO1", "FZD7", "HMGB3", "KHSRP", "LDLR", "MET", "MFF", "MMP13", "NOTCH1", "NR2F2", "NR5A2", "OSBPL6", "PAX3", "PAX7", "PHB", "PINK1", "PLK2", "PPARG", "PSAP", "RET", "ROR1", "RUNX1", "SEMA6A", "SHC1", "SMAD2", "ST14", "TGFBR1", "THBS1", "THBS2", "UCA1", "VDR", "VEGFC", "WEE1"]}
+{"mirna": "hsa-miR-27b-5p", "gene": ["ADAM19", "ARFGEF1", "PXN", "RAB14"]}
+{"mirna": "hsa-miR-28-3p", "gene": ["STAT5B", "TP53"]}
+{"mirna": "hsa-miR-28-5p", "gene": ["BAG1", "CDKN1A", "E2F6", "IGF1", "IL34", "MAD2L1", "MAPK1", "MPL", "N4BP1", "OTUB1", "RAP1B", "STAT5B", "TEX261", "TP53"]}
+{"mirna": "hsa-miR-2861", "gene": ["AKT2", "CCND1", "EGFR"]}
+{"mirna": "hsa-miR-296-3p", "gene": ["CX3CR1", "ICAM1", "KCNH1", "STAT5A"]}
+{"mirna": "hsa-miR-296-5p", "gene": ["BBC3", "CASP8", "CDX1", "DLL4", "ELAVL1", "FGFR1", "HGS", "HMGA1", "IKBKE", "KDR", "NGFR", "NOTCH1", "PIN1", "PLK1", "S100B", "SCRIB", "VEGFA", "WNK4"]}
+{"mirna": "hsa-miR-297", "gene": ["DGUOK", "GPC5"]}
+{"mirna": "hsa-miR-298", "gene": ["BACE1", "BAX", "CDKN1A"]}
+{"mirna": "hsa-miR-299-3p", "gene": ["ABCE1", "FXN"]}
+{"mirna": "hsa-miR-299-5p", "gene": ["ATG5", "CDKN1A", "SPP1"]}
+{"mirna": "hsa-miR-29a-3p", "gene": ["ABL1", "ADAM12", "ADAMTS9", "AHR", "AKT2", "AKT3", "ALDH5A1", "ATG9A", "BACE1", "BCL2", "CACNA1C", "CALCR", "CCND1", "CCND2", "CCNT2", "CD276", "CD93", "CDC42", "CDC7", "CDK2", "CDK4", "CDK6", "CEACAM6", "CLDN1", "COL10A1", "COL1A2", "COL3A1", "COL4A1", "COL4A2", "COL5A2", "CPEB3", "CPEB4", "CYP2C19", "DICER1", "DKK1", "DNMT1", "DNMT3A", "DNMT3B", "ELN", "FBN1", "FGA", "FGB", "FGG", "FOXO3", "FSTL1", "GLUL", "GPR85", "GSK3B", "HBP1", "HMGCR", "IFNAR1", "IGF1", "ITGA11", "ITGA6", "ITGB1", "KDM5B", "KEAP1", "KLF4", "KREMEN2", "LAMC2", "LOX", "LPL", "MCL1", "MMP2", "MUC1", "MYC", "MYCN", "NASP", "NAV3", "NFIA", "NMI", "PDGFRB", "PER1", "PIK3R1", "PPM1D", "PPP1R13B", "PTEN", "PXDN", "QKI", "RASGRP1", "RNASEL", "ROBO1", "S100B", "SAPCD2", "SERPINB9", "SERPINH1", "SETDB1", "SFRP2", "SLC22A7", "SPARC", "SRGAP2", "TDG", "TET1", "TET2", "TET3", "TFEB", "TNFAIP3", "TRAF4", "TRIM68", "VDAC1", "VEGFA", "ZFP36"]}
+{"mirna": "hsa-miR-29a-5p", "gene": ["COL3A1", "DKK1", "GSK3B", "HDAC9", "PTEN", "SPARC", "ST2", "TAB1"]}
+{"mirna": "hsa-miR-29b-1-5p", "gene": ["AKT3", "COL1A1", "COL3A1", "COL5A1", "JAK3", "JUND", "SMAD3", "STAT3", "TAM", "TGFB1"]}
+{"mirna": "hsa-miR-29b-3p", "gene": ["ADAM12", "AKT2", "AKT3", "ANGPTL4", "AQP4", "BACE1", "BCL2", "BMP1", "CCND2", "CDC42", "CDK6", "COL10A1", "COL1A1", "COL3A1", "COL4A1", "COL4A2", "COL5A2", "COL5A3", "CTNNBIP1", "DNAJB11", "DNMT1", "DNMT3A", "DNMT3B", "DUSP2", "ELAVL1", "ESR1", "FBN1", "FGA", "FGB", "FGG", "FOS", "GATA3", "GRN", "GSK3B", "HDAC4", "HMGA2", "HMGCR", "IFNG", "IL32", "ITGA6", "ITGB1", "KDM2A", "KIF1B", "LAMC1", "LAMC2", "LASP1", "LOX", "LOXL2", "LOXL4", "LRP6", "MCL1", "MEN1", "MMP15", "MMP2", "MMP24", "MMP9", "MYC", "MYCN", "NASP", "NCOA3", "NID1", "NKIRAS2", "PATZ1", "PDGFA", "PDGFB", "PDGFC", "PDGFRA", "PDGFRB", "PER1", "PIK3CG", "PIK3R1", "PPIC", "PPP1R13B", "PTEN", "RAX", "S100B", "SERPINH1", "SFPQ", "SNAI3", "SP1", "SPARC", "STAT3", "TBX21", "TCL1A", "TDG", "TET1", "TET2", "TGFB1", "TGFB2", "TGFB3", "TNFAIP3", "VEGFA"]}
+{"mirna": "hsa-miR-29c-3p", "gene": ["ADAM12", "AKT2", "AKT3", "BACE1", "BCL2", "CCND2", "CD274", "CDC42", "CDK6", "CNOT6", "COL10A1", "COL15A1", "COL1A1", "COL1A2", "COL21A1", "COL3A1", "COL4A1", "COL4A2", "COL5A2", "COL7A1", "CREB5", "CTNND1", "DNMT3A", "DNMT3B", "FBN1", "FGA", "FGB", "FRAT2", "FZD4", "FZD5", "HMGCR", "IGFBP1", "ITGA6", "ITGB1", "KLF4", "LAMC1", "LAMC2", "LOX", "LRP6", "MCL1", "MMP15", "MMP2", "MMP24", "MYCN", "NASP", "PDGFRB", "PER1", "PHLDB2", "PPP1R13B", "PTEN", "RCC2", "RFX7", "SERPINH1", "SIRT1", "SP1", "SPARC", "SRSF10", "TARBP1", "TDG", "TET2", "TFAP2C", "TGIF2", "TIAM1", "VEGFA", "WNT4"]}
+{"mirna": "hsa-miR-29c-5p", "gene": ["CPEB4", "DNMT3A", "DNMT3B", "WNT4"]}
+{"mirna": "hsa-miR-300", "gene": ["BMI1", "BRD7", "ROCK1", "ROS1", "TP53", "TWIST1"]}
+{"mirna": "hsa-miR-301a-3p", "gene": ["BCL2L11", "CDC14A", "MAP3K5", "MEOX2", "NKRF", "PTEN", "RUNX3", "SERPINE1", "SMAD4", "SNIP1", "TIMP2", "UVRAG"]}
+{"mirna": "hsa-miR-301a-5p", "gene": ["BTG1", "NDRG2", "PTEN"]}
+{"mirna": "hsa-miR-301b-3p", "gene": ["BCL2L11", "NR3C2", "PTEN", "TP63"]}
+{"mirna": "hsa-miR-301b-5p", "gene": ["NDRG2"]}
+{"mirna": "hsa-miR-302a-3p", "gene": ["ABCA1", "AKT1", "BMI1", "CCND1", "CDK1", "CDK2", "CDK4", "CDKN1A", "DAZAP2", "GAB2", "LEFTY1", "LEFTY2", "MAP3K1", "MBD2", "NANOG", "NR2F2", "PTEN", "SDC1", "SLAIN1", "TOB2"]}
+{"mirna": "hsa-miR-302a-5p", "gene": ["MMP2", "MMP9"]}
+{"mirna": "hsa-miR-302b-3p", "gene": ["AKT1", "AKT2", "BMI1", "CCND2", "CDK2", "DPYD", "E2F1", "EGFR", "ERBB4", "HDAC4", "MAP3K1", "MCL1", "NFIA", "RHOC", "TGFBR2"]}
+{"mirna": "hsa-miR-302c-3p", "gene": ["AKT1", "BMPR2", "CCND1", "CXCL8", "ESR1", "GAB2", "MAP3K1", "MICA", "MTDH"]}
+{"mirna": "hsa-miR-302c-5p", "gene": ["MAP4K4"]}
+{"mirna": "hsa-miR-302d-3p", "gene": ["AKT1", "CCND2", "CDK2", "CXCL8", "ERBB4", "IRF9", "KLF13", "LEFTY1", "LEFTY2", "MAP3K1", "MBNL2", "NR4A2", "TGFBR2", "TRPS1", "VEGFA"]}
+{"mirna": "hsa-miR-3064-5p", "gene": ["TERT"]}
+{"mirna": "hsa-miR-30a-3p", "gene": ["BECN1", "CDK6", "CYR61", "MECP2", "NFATC3", "NOTCH1", "RUNX2", "SLC7A6", "THBS1", "TMEM2", "VEZT", "XBP1"]}
+{"mirna": "hsa-miR-30a-5p", "gene": ["ABL1", "ATF1", "AVEN", "BCL11A", "BCL9", "BDNF", "BECN1", "CBX3", "CCNE2", "CD99", "CDH1", "DNMT1", "DTL", "ERG", "ESR2", "EYA2", "FOXD1", "FOXL2", "HCC", "HNF4G", "HSPA5", "IL21R", "ITGB3", "KLF9", "LOX", "MBNL1", "MBNL2", "MBNL3", "MTDH", "NCAM1", "NEDD4L", "NEUROD1", "NOTCH1", "NT5E", "PIK3CD", "PIK3R2", "PRDM1", "PRRT2", "RAB38", "RPA1", "RUNX2", "SEPT7", "SKP2", "SMAD1", "SNAI1", "SOX4", "TAB3", "TET1", "TNRC6A", "TP53", "TRAF3IP2", "TUBB4B", "UBE3C", "VIM"]}
+{"mirna": "hsa-miR-30b-3p", "gene": ["BECN1", "RORC"]}
+{"mirna": "hsa-miR-30b-5p", "gene": ["ATG12", "BCL2", "BCL6", "BCL9", "BECN1", "CAT", "CCNE2", "CTHRC1", "DLL4", "DNMT1", "EIF2S1", "EIF5A2", "ERG", "HOXA1", "MBNL1", "MBNL2", "MBNL3", "NOTCH1", "PDGFRB", "RASAL2", "RUNX2", "SERPINE1", "SIX1", "SMAD1", "SNAI1", "SOCS1", "TP53"]}
+{"mirna": "hsa-miR-30c-1-3p", "gene": ["HMBOX1", "NR1I2"]}
+{"mirna": "hsa-miR-30c-2-3p", "gene": ["ATF3", "BCL9", "CCNE1", "SNAI1", "TRADD"]}
+{"mirna": "hsa-miR-30c-5p", "gene": ["BCL9", "BECN1", "CAMK2D", "CASP3", "CCND2", "CDC42", "CTGF", "DDIT4", "DLL4", "DNMT1", "EIF2S1", "FASN", "FOXO3", "HDAC4", "HSPA4", "IDH1", "IER2", "IL11", "JAK1", "MCL1", "MTA1", "MTTP", "NCOR2", "NOTCH1", "PAK1", "RARB", "RASAL2", "RFX6", "RUNX2", "SERPINE1", "SMAD1", "SNAI1", "SNAI2", "SOCS3", "TGIF2", "TP53", "TWF1", "UBE2I", "VIM"]}
+{"mirna": "hsa-miR-30d-5p", "gene": ["ATG12", "ATG2B", "ATG5", "BCL9", "BECN1", "BNIP3L", "CASP3", "EZH2", "GNAI2", "GPR78", "KPNB1", "LIMS1", "MAP4K4", "NOTCH1", "PIK3R2", "PPP1R14C", "RUNX2", "SMAD1", "SNAI1", "SOCS1", "TP53"]}
+{"mirna": "hsa-miR-30e-3p", "gene": ["NFKBIA"]}
+{"mirna": "hsa-miR-30e-5p", "gene": ["ATG5", "BMI1", "CASP3", "MBNL1", "MBNL2", "MBNL3", "MTTP", "MYBL2", "NOTCH1", "P4HA1", "SNAI1", "TP53", "TUSC3", "UBE2I"]}
+{"mirna": "hsa-miR-31-3p", "gene": ["NECTIN4", "RHOA", "SDHA"]}
+{"mirna": "hsa-miR-31-5p", "gene": ["ABCB9", "ARID1A", "BAP1", "C1QTNF9", "CASR", "CDK1", "CREG1", "DACT3", "DKK1", "DMD", "DOCK1", "E2F2", "EMSY", "FOXO3", "FOXP3", "FZD3", "GNA13", "HIF1AN", "IL25", "ITGA5", "LATS2", "MAP4K4", "MCM2", "MET", "MLH1", "MMP16", "MPRIP", "PPP2R2A", "PRKCE", "RAB27A", "RASA1", "RDX", "RHOA", "RHOBTB1", "SATB2", "SELE", "SGPP2", "SLC1A2", "SMAD4", "SOX4", "SP7", "SPRED1", "SPRED2", "SPRY1", "SPRY3", "SPRY4", "SRC", "STK40", "STMN1", "TBXA2R", "TIAM1", "WASF3", "XRCC5"]}
+{"mirna": "hsa-miR-3127-5p", "gene": ["INPP4A", "INPP5J", "PHLPP1", "PHLPP2"]}
+{"mirna": "hsa-miR-3162-3p", "gene": ["CTNNB1"]}
+{"mirna": "hsa-miR-3163", "gene": ["MSH2", "MSH3", "SKP2"]}
+{"mirna": "hsa-miR-3178", "gene": ["TRAF3"]}
+{"mirna": "hsa-miR-3180-5p", "gene": ["PODN"]}
+{"mirna": "hsa-miR-3188", "gene": ["MTOR"]}
+{"mirna": "hsa-miR-3189-3p", "gene": ["ARHGEF25", "SF3B2"]}
+{"mirna": "hsa-miR-3196", "gene": ["MYOD1"]}
+{"mirna": "hsa-miR-32-5p", "gene": ["AURKA", "BCL2L11", "BTG2", "FBXW7", "KAT2B", "KLF4", "MDM2", "PHLPP2", "PRMT5", "PTEN", "REV3L", "RGS17", "SLC45A3", "TRAF3", "TSC1", "TWIST1"]}
+{"mirna": "hsa-miR-320a", "gene": ["ABCG2", "AQP1", "AQP4", "AR", "ARF1", "ARPP19", "BANP", "BMI1", "CDK6", "CRKL", "CTNNB1", "ESRRG", "FAS", "FH", "FOXM1", "GNAI1", "HMGB1", "HOXA10", "HSPB6", "IGF1R", "ITGB3", "KITLG", "MAPK1", "MCL1", "MTDH", "MYC", "NFATC3", "NOD2", "NPR1", "NRP1", "PBX3", "PDCD4", "PICSAR", "POLR3D", "PTEN", "RAB11A", "RAB14", "RAC1", "RUNX2", "SUZ12", "TFRC", "TRPC5", "USP14", "VDAC1", "VEGFA", "VIM", "YWHAZ"]}
+{"mirna": "hsa-miR-320b", "gene": ["DLX5", "MYC", "NOD2"]}
+{"mirna": "hsa-miR-320c", "gene": ["EZH2", "GNAI1", "IRF4", "NOD2", "PRDM1", "SMARCC1", "XBP1"]}
+{"mirna": "hsa-miR-320d", "gene": ["GNAI1", "RBFOX2"]}
+{"mirna": "hsa-miR-323a-3p", "gene": ["SMAD2", "SMAD3"]}
+{"mirna": "hsa-miR-323b-5p", "gene": ["ERBB2"]}
+{"mirna": "hsa-miR-324-3p", "gene": ["BCL2L1", "CREBBP", "DVL2", "WNT2B", "WNT9B"]}
+{"mirna": "hsa-miR-324-5p", "gene": ["CD274", "ETS1", "GLI1", "MTFR1", "SMO", "SP1"]}
+{"mirna": "hsa-miR-326", "gene": ["BCL2L1", "CD274", "CD9", "FGF1", "FSCN1", "GLI1", "HOTAIR", "MSH3", "NOB1", "NOTCH1", "NOTCH2", "PKM", "SMO", "SP1"]}
+{"mirna": "hsa-miR-328-3p", "gene": ["ABCG2", "BACE1", "CD44", "H2AFX", "KCNH2", "MMP16", "PLCE1", "PTPRJ", "SFRP1"]}
+{"mirna": "hsa-miR-328-5p", "gene": ["CD44"]}
+{"mirna": "hsa-miR-329-3p", "gene": ["BCAR1", "BRD4", "E2F1", "GRB2", "KDM1A", "MAPK1", "MCAM", "TIAM1"]}
+{"mirna": "hsa-miR-329-5p", "gene": ["RAB10"]}
+{"mirna": "hsa-miR-330-3p", "gene": ["CCBE1", "CD44", "CDC42", "E2F1", "EGR2", "MSI1", "PDCD4", "SH3GL2", "SP1"]}
+{"mirna": "hsa-miR-330-5p", "gene": ["ITGA5", "MUC1", "PDE4B", "PDIA3", "TYR"]}
+{"mirna": "hsa-miR-331-3p", "gene": ["DOHH", "E2F1", "ERBB2", "FHIT", "HOTAIR", "ING5", "NRP2", "PHLPP1"]}
+{"mirna": "hsa-miR-335-3p", "gene": ["ESR1", "NOS3", "PAX6"]}
+{"mirna": "hsa-miR-335-5p", "gene": ["BCL2L2", "BIRC5", "BRCA1", "CRKL", "CXCR4", "DAAM2", "DKK1", "EPN2", "FMN2", "FMNL3", "FOXA2", "GRM4", "ID4", "IGF1R", "LRG1", "MAPK1", "MERTK", "MYC", "PARP1", "PLAUR", "POU5F1", "PTPRN2", "RASA1", "RB1", "ROCK1", "RUNX2", "SIAH2", "SOX17", "SOX4", "SP1", "TCEAL9", "TFF2", "TNC", "TRIM29", "TUG1", "ZEB2"]}
+{"mirna": "hsa-miR-337-3p", "gene": ["CSNK2A1", "MZF1", "RAP1A", "STAT3"]}
+{"mirna": "hsa-miR-337-5p", "gene": ["HOXB7"]}
+{"mirna": "hsa-miR-338-3p", "gene": ["ADAM17", "CCND1", "CDH2", "DAB2IP", "HIF1A", "IRS2", "ITGB3", "MACC1", "MAP1A", "MMP9", "NOVA1", "NRP1", "PKLR", "PKM", "PLA2G4B", "PREX2", "SMO", "SOX4", "SSX2IP", "TAZ", "UBE2Q1", "ZBTB18", "ZEB2"]}
+{"mirna": "hsa-miR-338-5p", "gene": ["BMI1", "CD274", "EFEMP1", "LPAR1", "NRP1", "SPRY1"]}
+{"mirna": "hsa-miR-339-3p", "gene": ["FOXO1", "MCL1", "NFKB1"]}
+{"mirna": "hsa-miR-339-5p", "gene": ["BACE1", "BCL6", "MDM2", "NOVA1", "PTP4A1"]}
+{"mirna": "hsa-miR-33a-3p", "gene": ["ABCA1", "METTL3", "PBX3", "SMAD7"]}
+{"mirna": "hsa-miR-33a-5p", "gene": ["ABCA1", "ABCB11", "ACTB", "ADAM9", "CDK16", "CPT1A", "CROT", "EN2", "FOSL1", "HADHB", "HIF1A", "HMGA2", "HSPA8", "IRS2", "MYC", "NCOA3", "NFYC", "NPC1", "OSBPL6", "PIM1", "PIM3", "PPARA", "PRKAA1", "PRKCB", "PTHLH", "ROS1", "SATB2", "SP1", "SRC", "SREBF1", "TWIST1"]}
+{"mirna": "hsa-miR-33b-3p", "gene": ["HMGA2", "SALL4", "TWIST1"]}
+{"mirna": "hsa-miR-33b-5p", "gene": ["ABCA1", "BCL2", "CREB1", "G6PC", "HMGA2", "MYC", "PCK1", "PIM1", "RORA", "SRC", "TWIST1", "XIAP", "ZEB1"]}
+{"mirna": "hsa-miR-340-3p", "gene": ["EZH2"]}
+{"mirna": "hsa-miR-340-5p", "gene": ["AKT1", "CCND1", "CCND2", "CCNG2", "CDK6", "HNRNPA2B1", "IL4", "KRAS", "MDM2", "MECP2", "MET", "MITF", "PTBP1", "PUM1", "PUM2", "RHOA", "ROCK1", "SKP2", "SOX2", "STAT3"]}
+{"mirna": "hsa-miR-342-3p", "gene": ["BIRC6", "BMP7", "CTBP2", "DNMT1", "E2F1", "GEMIN4", "ID4", "IKBKG", "MTDH", "SREBF1", "SREBF2", "TAB2", "TAB3"]}
+{"mirna": "hsa-miR-342-5p", "gene": ["ENG", "NAA10"]}
+{"mirna": "hsa-miR-345-5p", "gene": ["ABCC1", "CDKN1A"]}
+{"mirna": "hsa-miR-346", "gene": ["BCL6", "BRMS1", "BTK", "EFEMP2", "GSK3B", "LIF", "SRCIN1", "TAP1", "TERT", "ZFP36"]}
+{"mirna": "hsa-miR-34a-3p", "gene": ["ATP5S", "AXIN2", "BCL2", "CCND1", "CD274", "CDK6", "CTNNB1", "FRAT1", "LDHA", "MET", "MYC", "NCOR1", "NCOR2", "PDE4B", "SIRT1", "SMAD4", "TGIF2", "XIAP"]}
+{"mirna": "hsa-miR-34a-5p", "gene": ["ACSL1", "ACSL4", "AGTR1", "AIP", "AKT1", "ANK3", "AR", "ARHGDIB", "ATG4A", "ATG4B", "ATG4C", "ATG4D", "ATG5", "ATG7", "ATP5S", "AXIN2", "AXL", "BAX", "BCL2", "BECN1", "BIRC5", "BMP7", "CACNB3", "CCL22", "CCND1", "CCNE2", "CD24", "CD44", "CDK4", "CDK6", "CDKN2C", "CSF1R", "CYBB", "Crtc1", "DGUOK", "DLL1", "E2F1", "E2F3", "EPHA5", "ERBB2", "FKBP1B", "FLOT2", "FOS", "FOSL1", "FOXP1", "FUT8", "GALNT7", "GAS1", "GDF5", "GFRA3", "GRM7", "HDAC1", "HMGB1", "HNF4A", "HNF4G", "HOTAIR", "IFNB1", "IGF2BP3", "IL6R", "IMPA1", "IMPDH2", "INHBB", "JAG1", "KCNH1", "KCNH2", "KDM4A", "KIT", "KLB", "KLF12", "KLF4", "L1CAM", "LDHA", "LEF1", "MAGEA12", "MAGEA2", "MAGEA3", "MAGEA6", "MAP2K1", "MDM4", "MET", "MTA2", "MYB", "MYC", "MYCN", "NAMPT", "NANOG", "NLRC5", "NOTCH1", "NOTCH2", "NR4A2", "NUMB", "PAM", "PCBP2", "PDGFRA", "PDGFRB", "PIK3CG", "POU5F1", "PPARA", "PPP1CC", "PPP1R10", "PRKD1", "RAD51", "RBP2", "RCAN1", "RICTOR", "SIRT1", "SIRT6", "SIRT7", "SMAD4", "SNAI1", "SOX2", "SRC", "STMN1", "STX1A", "SYT1", "TCF7", "TGIF2", "TP53", "TREM2", "ULBP2", "VAMP2", "WNT1", "YY1", "ZAP70"]}
+{"mirna": "hsa-miR-34b-3p", "gene": ["ABCB1", "BCL2", "CCND1", "CDK4", "CDK6", "CREB1", "GALNT7", "IGBP1", "IL6R", "ITPR1", "JAG1", "MAP2K1", "MET", "MYC", "MYCN", "NANOG", "NOTCH1", "PAK1", "SNAI1", "SNCA", "SOX2", "TBXAS1", "USP22", "YY1", "ZAP70"]}
+{"mirna": "hsa-miR-34b-5p", "gene": ["AXIN2", "BCL2", "CCNE2", "CD274", "CDK4", "CDK6", "CREB1", "CTNNB1", "HNF4A", "MET", "MYC", "MYCN", "TGFBR2"]}
+{"mirna": "hsa-miR-34c-3p", "gene": ["AXIN2", "CTNNB1", "EIF4E", "LEF1", "MARCKS", "NCKAP1", "PLCXD3", "PSMG1"]}
+{"mirna": "hsa-miR-34c-5p", "gene": ["AXL", "BCL2", "BMF", "CCND1", "CCNE2", "CDK4", "CDK6", "E2F3", "FOSL1", "GABBR2", "GABRA3", "GALNT7", "GIT1", "GRM7", "HNF4A", "IL6R", "ITPR1", "MAP2K1", "MAPT", "MAZ", "MET", "MUC2", "MYC", "MYCN", "NANOG", "NOTCH1", "NOTCH4", "PABPC1", "PDGFRA", "PDGFRB", "RARG", "RUNX2", "SNAI1", "SNCA", "SOX2", "TGIF2", "TJP1", "ULBP2", "UNG", "VEZT", "YY1", "ZAP70"]}
+{"mirna": "hsa-miR-361-3p", "gene": ["SH2B1"]}
+{"mirna": "hsa-miR-361-5p", "gene": ["CXCR6", "SND1", "STAT6", "TWIST1", "VEGFA"]}
+{"mirna": "hsa-miR-3619-5p", "gene": ["PLD2"]}
+{"mirna": "hsa-miR-362-3p", "gene": ["BCAR1", "CD82", "E2F1", "PTPN1", "USF2"]}
+{"mirna": "hsa-miR-362-5p", "gene": ["CYLD", "PIK3C2B"]}
+{"mirna": "hsa-miR-3622b-5p", "gene": ["BMI1", "EGFR", "ERBB2"]}
+{"mirna": "hsa-miR-363-3p", "gene": ["BCL2L11", "CASP3", "CDKN1A", "CREB1", "FBXW7", "GAP43", "HIVEP1", "NOTCH1", "PDPN", "REG4", "S1PR1", "SOX4"]}
+{"mirna": "hsa-miR-363-5p", "gene": ["CD274"]}
+{"mirna": "hsa-miR-365a-3p", "gene": ["ACVR1", "BAX", "BCL2", "CCND1", "CDC25A", "IL6", "KRAS", "PAX6", "SHC1"]}
+{"mirna": "hsa-miR-367-3p", "gene": ["FBXW7", "KLF4", "MDM2", "RAB23"]}
+{"mirna": "hsa-miR-367-5p", "gene": ["RYR3"]}
+{"mirna": "hsa-miR-3686", "gene": ["PLK1"]}
+{"mirna": "hsa-miR-369-3p", "gene": ["PKM", "SOX4"]}
+{"mirna": "hsa-miR-369-5p", "gene": ["DNMT3A", "DNMT3B", "FABP4"]}
+{"mirna": "hsa-miR-370-3p", "gene": ["CPT1A", "CTNNB1", "FOXM1", "FOXO1", "GADD45A", "LIN28A", "MAP3K8", "MGMT", "NF1", "TCEAL1", "TGFBR2"]}
+{"mirna": "hsa-miR-370-5p", "gene": ["PTEN"]}
+{"mirna": "hsa-miR-371a-3p", "gene": ["DKK1", "PLCB4", "PRDX6", "STX12"]}
+{"mirna": "hsa-miR-371a-5p", "gene": ["PRPF4B", "SOX2"]}
+{"mirna": "hsa-miR-372-3p", "gene": ["ATAD2", "BTG1", "CCNA1", "CDK2", "CDKN1A", "DKK1", "ERBB4", "KLF13", "LATS2", "LEFTY1", "MBNL2", "NFIB", "NR4A2", "PHLPP2", "RHOC", "TGFBR2", "TNFAIP1", "TRPS1", "VEGFA"]}
+{"mirna": "hsa-miR-373-3p", "gene": ["BTG1", "CD44", "DKK1", "IRF9", "JAK1", "LATS2", "LEFTY1", "LEFTY2", "MBD2", "MTOR", "MYC", "NFIB", "PIK3CA", "RABEP1", "RAD23B", "RAD52", "RASSF1", "RECK", "SIRT1", "TGFBR2", "TNFAIP1", "TXNIP", "VEGFA"]}
+{"mirna": "hsa-miR-374a-3p", "gene": ["AXIN2"]}
+{"mirna": "hsa-miR-374a-5p", "gene": ["ATM", "CCND1", "CEBPB", "DICER1", "GADD45A", "LDHA", "SRCIN1", "WIF1", "WNT5A"]}
+{"mirna": "hsa-miR-374b-5p", "gene": ["AKT1", "RECK", "VEGFA", "WNT16"]}
+{"mirna": "hsa-miR-375", "gene": ["ADIPOR2", "C1QBP", "CIP2A", "CTNNB1", "DEPTOR", "ELAVL4", "ERBB2", "FZD8", "IGF1R", "JAK2", "KCNQ2", "KLF4", "LDHB", "LRP5", "MALAT1", "MAP3K8", "MAPK3", "MST1R", "MTDH", "MTPN", "MYCN", "PDK1", "PHLPP1", "PIK3CA", "PLAG1", "RASD1", "RHOA", "RUNX3", "SEC23A", "SP1", "STAT3", "TIMM8A", "TP53", "USP1", "YAP1", "YWHAZ", "YY1AP1"]}
+{"mirna": "hsa-miR-376a-3p", "gene": ["AGO2", "ATG4C", "CASP8", "CDK2", "IGF1R", "KLF15", "MEPE", "PIK3R1", "SLC16A1", "SRSF11", "TTK"]}
+{"mirna": "hsa-miR-376a-5p", "gene": ["AMFR", "RAP2A", "SLC16A1", "SRSF11", "TTK"]}
+{"mirna": "hsa-miR-376b-3p", "gene": ["ATG4C", "BECN1"]}
+{"mirna": "hsa-miR-376c-3p", "gene": ["ACVR1C", "BCL2", "BMI1", "GRB2", "IGF1R", "NR5A2", "RUNX2", "TGFA", "TGFBR1", "UGT2B15", "UGT2B17"]}
+{"mirna": "hsa-miR-377-3p", "gene": ["DNMT1", "E2F3", "PAK1", "PTEN", "SOD1", "SOD2", "TIMP1", "TP53"]}
+{"mirna": "hsa-miR-378a-3p", "gene": ["CDK6", "CYP19A1", "GALNT7", "GLI3", "GOLT1A", "GRB2", "IGF1R", "KSR1", "MAPK1", "MSC", "MYC", "NPNT", "PGR", "RUNX1", "SUFU", "TGFB2", "TOB2", "TUSC2", "VEGFA", "VIM", "WNT10A"]}
+{"mirna": "hsa-miR-378a-5p", "gene": ["NODAL", "SUFU", "TUSC2"]}
+{"mirna": "hsa-miR-378b", "gene": ["NKX3-1"]}
+{"mirna": "hsa-miR-379-5p", "gene": ["IL11", "PTK2"]}
+{"mirna": "hsa-miR-380-5p", "gene": ["CD274"]}
+{"mirna": "hsa-miR-381-3p", "gene": ["ANO1", "CD1C", "GJA1", "HDAC4", "ID1", "NFKBIA", "P2RX5", "TBC1D9", "TWIST1", "WEE1"]}
+{"mirna": "hsa-miR-381-5p", "gene": ["HES1", "NEFL"]}
+{"mirna": "hsa-miR-382-3p", "gene": ["AKT1"]}
+{"mirna": "hsa-miR-382-5p", "gene": ["DRD1", "MXD1", "NFIA", "PTEN", "YBX1"]}
+{"mirna": "hsa-miR-383-3p", "gene": ["PRPF31"]}
+{"mirna": "hsa-miR-383-5p", "gene": ["ATR", "CCND1", "DIO1", "IGF1R", "IRF1", "PICSAR", "PPP1R10", "PRDX3", "TNFSF13", "VEGFA"]}
+{"mirna": "hsa-miR-384", "gene": ["FBXW7", "HSPA5", "IRS1", "KRAS"]}
+{"mirna": "hsa-miR-3928-3p", "gene": ["DICER1"]}
+{"mirna": "hsa-miR-3940-5p", "gene": ["CCND1", "USP28"]}
+{"mirna": "hsa-miR-3941", "gene": ["IGBP1"]}
+{"mirna": "hsa-miR-3978", "gene": ["LGMN"]}
+{"mirna": "hsa-miR-409-3p", "gene": ["AKT1", "ANG", "CTNND1", "ELF2", "FGB", "FRAT1", "GAB1", "IFNG", "MET", "MGMT", "NLK", "PHF10", "RDX", "RECK", "RSU1", "STAG2", "UGT2B17", "ZEB1"]}
+{"mirna": "hsa-miR-409-5p", "gene": ["RSU1", "STAG2"]}
+{"mirna": "hsa-miR-410-3p", "gene": ["AGTR1", "CCNB1", "HES1", "HEY1", "JAG1", "JAG2", "MDM2", "MET", "NOTCH1", "SNAI1"]}
+{"mirna": "hsa-miR-410-5p", "gene": ["STAT3"]}
+{"mirna": "hsa-miR-411-5p", "gene": ["GRB2", "SPRY4"]}
+{"mirna": "hsa-miR-421", "gene": ["ATM", "CASP3", "CBX7", "CDH1", "FOXO4", "RBMXL1", "SIRT3", "SMAD4"]}
+{"mirna": "hsa-miR-422a", "gene": ["CYP7A1", "FOXE1", "FOXG1", "FOXQ1", "PIK3CA", "TGFB1"]}
+{"mirna": "hsa-miR-423-3p", "gene": ["BCL2L11", "CDKN1A", "PA2G4", "TCEAL1"]}
+{"mirna": "hsa-miR-423-5p", "gene": ["FAM3A", "TFF1"]}
+{"mirna": "hsa-miR-424-3p", "gene": ["LGALS3", "YAP1"]}
+{"mirna": "hsa-miR-424-5p", "gene": ["ANLN", "ATF6", "CCND1", "CCND3", "CCNE1", "CCNF", "CDC14A", "CDC25A", "CDK6", "CDX2", "CHEK1", "CUL2", "FASN", "FGF2", "FGFR1", "HIF1A", "KDM5B", "KIF23", "MAP2K1", "MYB", "NFIA", "PLAG1", "PTCH1", "SIAH1", "SMAD3", "SMAD7", "SOCS2", "SOCS6", "SPI1", "TGFBR3", "WEE1"]}
+{"mirna": "hsa-miR-425-5p", "gene": ["BTK", "CCND1", "FGFR3", "MAFB", "PDCD10", "PTEN", "SMAD2", "TACC3", "THRB"]}
+{"mirna": "hsa-miR-4262", "gene": ["SPP1"]}
+{"mirna": "hsa-miR-4269", "gene": ["BTK"]}
+{"mirna": "hsa-miR-4271", "gene": ["APOC3"]}
+{"mirna": "hsa-miR-4273", "gene": ["TOMM20"]}
+{"mirna": "hsa-miR-4284", "gene": ["CXCL5"]}
+{"mirna": "hsa-miR-429", "gene": ["BAP1", "BCL2", "CRKL", "DLC1", "DNMT1", "ELMO2", "ERBIN", "EZH2", "FSCN1", "HIF1A", "HOXB5", "IL4", "KLF11", "KLHL20", "MALAT1", "MYB", "MYC", "ONECUT2", "OSTF1", "PTEN", "PTPRD", "RASSF2", "RASSF8", "RBBP4", "RERE", "RIN2", "SEPT7", "SHC1", "SOX2", "SP1", "TCF7L1", "TIMP2", "VAC14", "VEGFA", "WASF3", "WDR37", "XIAP", "ZEB1", "ZEB2", "ZFPM2"]}
+{"mirna": "hsa-miR-4295", "gene": ["CDKN1A", "RUNX3"]}
+{"mirna": "hsa-miR-431-5p", "gene": ["KREMEN1"]}
+{"mirna": "hsa-miR-432-5p", "gene": ["ADAR", "MECP2", "NES", "RCOR1"]}
+{"mirna": "hsa-miR-433-3p", "gene": ["AZIN1", "CFTR", "CREB1", "FGF20", "GBP2", "GRB2", "HIF1A", "KRAS", "MET", "RUNX2", "TYMS"]}
+{"mirna": "hsa-miR-433-5p", "gene": ["GCLC", "GCLM", "SPARC"]}
+{"mirna": "hsa-miR-4437", "gene": ["SNCG"]}
+{"mirna": "hsa-miR-4448", "gene": ["CCDC88A"]}
+{"mirna": "hsa-miR-4458", "gene": ["IGF1R"]}
+{"mirna": "hsa-miR-448", "gene": ["ADAM10", "BCL2", "CXCL12", "IGF1R", "ITPR1", "KDM2B", "MAP2K1", "MPPED2", "SATB1"]}
+{"mirna": "hsa-miR-4496", "gene": ["ABCG2"]}
+{"mirna": "hsa-miR-449a", "gene": ["ADAM10", "BCL2", "CAPN6", "CCND1", "CCNE2", "CDC25A", "CDK4", "CDK6", "CREB5", "CRIP2", "E2F3", "FLOT2", "FOS", "GMNN", "HDAC1", "HNF4A", "ITPR1", "LEF1", "MAP2K1", "MAZ", "MET", "MFAP4", "MYC", "MYCN", "NOTCH1", "PKP4", "POU2F1", "RRAS", "SIRT1", "TSEN15", "WISP2", "XIST"]}
+{"mirna": "hsa-miR-449b-5p", "gene": ["CCNE2", "CDC25A", "CDK6", "GMNN", "HDAC1", "MET", "MYCN", "NEAT1", "SIRT1"]}
+{"mirna": "hsa-miR-449c-5p", "gene": ["MET", "MYC"]}
+{"mirna": "hsa-miR-450a-1-3p", "gene": ["BUB1"]}
+{"mirna": "hsa-miR-450a-5p", "gene": ["HNRNPK", "STAT1"]}
+{"mirna": "hsa-miR-450b-5p", "gene": ["SOX2"]}
+{"mirna": "hsa-miR-4516", "gene": ["STAT3"]}
+{"mirna": "hsa-miR-451a", "gene": ["ABCB1", "ADAM10", "AKT1", "BCL2", "CAB39", "CDKN2D", "CPNE3", "DCBLD2", "IKBKB", "IL6", "IL6R", "MAP3K1", "MAPK1", "MIF", "MMP2", "MMP9", "MYC", "OXTR", "RAB14", "RAB5A", "TMED7", "TSC1"]}
+{"mirna": "hsa-miR-452-5p", "gene": ["BMI1", "CDKN1B", "DPYSL2", "KRAS", "LEF1", "TCF4", "THRB"]}
+{"mirna": "hsa-miR-454-3p", "gene": ["CXCL12", "SMAD4"]}
+{"mirna": "hsa-miR-455-3p", "gene": ["EI24", "EIF4E", "FUT8", "HDAC2", "HDAC8", "MUC1", "ZEB1"]}
+{"mirna": "hsa-miR-455-5p", "gene": ["NCSTN", "RAB18", "UBA7"]}
+{"mirna": "hsa-miR-4638-5p", "gene": ["KIDINS220"]}
+{"mirna": "hsa-miR-4649-3p", "gene": ["PTPN6"]}
+{"mirna": "hsa-miR-4653-3p", "gene": ["FRS2"]}
+{"mirna": "hsa-miR-466", "gene": ["PROX1", "TRIM13"]}
+{"mirna": "hsa-miR-4667-3p", "gene": ["BTK"]}
+{"mirna": "hsa-miR-4674", "gene": ["SNCG"]}
+{"mirna": "hsa-miR-4689", "gene": ["AKT1", "KRAS"]}
+{"mirna": "hsa-miR-4701-5p", "gene": ["ST3GAL1"]}
+{"mirna": "hsa-miR-4717-5p", "gene": ["RGS2"]}
+{"mirna": "hsa-miR-4722-5p", "gene": ["SNCG"]}
+{"mirna": "hsa-miR-4723-5p", "gene": ["ABL1"]}
+{"mirna": "hsa-miR-4728-5p", "gene": ["PADI2"]}
+{"mirna": "hsa-miR-4775", "gene": ["SMAD7"]}
+{"mirna": "hsa-miR-4782-3p", "gene": ["USP14", "XIAP", "ZEB2"]}
+{"mirna": "hsa-miR-4792", "gene": ["FOXC1"]}
+{"mirna": "hsa-miR-483-3p", "gene": ["BBC3", "CDK4", "CTGF", "DLC1", "EI24", "IGF1", "PARD3", "RASGRF1", "SMAD4", "SRF"]}
+{"mirna": "hsa-miR-483-5p", "gene": ["ALCAM", "CKB", "FAM160B2", "MAPK3", "NOTCH3", "RHOA", "SRF"]}
+{"mirna": "hsa-miR-484", "gene": ["FIS1", "SMAD2", "ZEB1"]}
+{"mirna": "hsa-miR-485-3p", "gene": ["MAT1A", "NFYB", "NTRK3", "PBRM1", "PPARGC1A", "SLC40A1"]}
+{"mirna": "hsa-miR-485-5p", "gene": ["APOA5", "FLOT1", "FZD7", "HIF3A", "HMGA2", "PPARGC1A", "STC2"]}
+{"mirna": "hsa-miR-486-3p", "gene": ["BCL11A", "ECM1", "FASN", "MAF", "PRKCD", "SYK"]}
+{"mirna": "hsa-miR-486-5p", "gene": ["ARHGAP5", "CDK4", "CIT", "CLDN10", "DOCK3", "FBN1", "FOXO1", "IGF1R", "NRP2", "OLFM4", "PIK3R1", "PTEN", "SMAD2", "SNAI1"]}
+{"mirna": "hsa-miR-487a-3p", "gene": ["ABCG2", "MAGI2", "PIK3R1", "SPRED2"]}
+{"mirna": "hsa-miR-487b-3p", "gene": ["BMI1", "GRM3", "KRAS", "MAGI2", "MYC", "SUZ12", "THBS1", "WNT5A"]}
+{"mirna": "hsa-miR-488-3p", "gene": ["BCL2L11", "EIF3A", "PAX6", "POMC", "SLC39A8"]}
+{"mirna": "hsa-miR-488-5p", "gene": ["AR"]}
+{"mirna": "hsa-miR-489-3p", "gene": ["GSE1", "MMP7", "PAX3", "PROX1", "PTPN11", "SNAI2", "SPIN1"]}
+{"mirna": "hsa-miR-490-3p", "gene": ["ABCC2", "CCND1", "ERGIC3", "HMGA2", "PAPPA", "PCBP1", "RHOA", "SMARCD1", "TGFA", "TGFBR1", "TNKS2"]}
+{"mirna": "hsa-miR-490-5p", "gene": ["BMPR2", "FOS", "HNRNPA1", "PIK3CA"]}
+{"mirna": "hsa-miR-491-3p", "gene": ["ABCB1", "CDK6", "IGFBP2"]}
+{"mirna": "hsa-miR-491-5p", "gene": ["BCL2L1", "CAPNS1", "CDK6", "EGFR", "GIT1", "IGF2BP1", "KDM4B", "MMP2", "MMP9", "NOTCH3", "SLC6A3", "SMAD3", "TP53", "WNT3A"]}
+{"mirna": "hsa-miR-492", "gene": ["BSG", "MZF1", "PTEN"]}
+{"mirna": "hsa-miR-493-3p", "gene": ["DKK1", "FZD4", "MAP2K7", "MXI1", "RHOC"]}
+{"mirna": "hsa-miR-493-5p", "gene": ["FUT4", "GOLM1", "RHOC"]}
+{"mirna": "hsa-miR-494-3p", "gene": ["AKT1", "ARHGAP5", "ARNTL", "ATF3", "BAG1", "BCL2", "BCL2L11", "BIRC5", "BMI1", "CDK6", "CFTR", "CXCR4", "FOXJ3", "HNRNPA3", "HOXA10", "IGF1R", "ITPR1", "MAP2K1", "MCC", "MYC", "MYH2", "PDIA3", "PROS1", "PTEN", "RAD23B", "SDC1", "SLC26A3", "SYNCRIP", "TFAM", "TFPI", "UGT2B17", "ZEB1"]}
+{"mirna": "hsa-miR-494-5p", "gene": ["CXCR4", "DPYD", "PTEN"]}
+{"mirna": "hsa-miR-495-3p", "gene": ["ABCB1", "AKT1", "ATP7A", "BMI1", "CCL2", "FOXC1", "HMGA2", "HSPA5", "MAT1A", "MEIS1", "MTA3", "PBX3", "PTP4A3", "RUNX3", "SMR3B", "SOX9", "TBC1D9"]}
+{"mirna": "hsa-miR-496", "gene": ["MTOR"]}
+{"mirna": "hsa-miR-497-3p", "gene": ["HIF1A", "SNAI2"]}
+{"mirna": "hsa-miR-497-5p", "gene": ["AMOT", "BCL2", "BIRC5", "BTRC", "CCND3", "CCNE1", "CDC25A", "CDK4", "CHEK1", "DICER1", "E2F3", "EIF4E", "ESRRA", "HDGF", "IGF1R", "IKBKB", "KCNN4", "MACC1", "MAP2K1", "MTOR", "PBX3", "RAF1", "RPS6KB1", "RUNX2", "Reck", "SMAD7", "SMURF1", "SSRP1", "TWIST1", "WEE1", "WNT7A"]}
+{"mirna": "hsa-miR-498", "gene": ["BRCA1", "ERBB2", "KRTAP5-9", "RBFOX2", "TERT"]}
+{"mirna": "hsa-miR-499a-3p", "gene": ["MEF2C"]}
+{"mirna": "hsa-miR-499a-5p", "gene": ["ETS1", "FOXO4", "PDCD4", "SOX6", "VAV3"]}
+{"mirna": "hsa-miR-500a-5p", "gene": ["CYLD", "OTUD7B", "TAX1BP1"]}
+{"mirna": "hsa-miR-501-5p", "gene": ["DKK1", "GSK3B", "LAMTOR5", "NKD1"]}
+{"mirna": "hsa-miR-502-3p", "gene": ["SET"]}
+{"mirna": "hsa-miR-502-5p", "gene": ["IFI27", "IRF1", "KMT5A", "RAB1B", "TRAF2"]}
+{"mirna": "hsa-miR-503-3p", "gene": ["L1CAM", "SMAD2"]}
+{"mirna": "hsa-miR-503-5p", "gene": ["AGO1", "ANLN", "ARHGEF19", "ATF6", "BCL2", "CCND1", "CCND3", "CCNE1", "CCNE2", "CCNF", "CD40", "CDC14A", "CDC25A", "CDKN1A", "CHEK1", "E2F3", "FANCA", "FBXW7", "FGF2", "FGF8", "FGFR1", "IGF1R", "IKBKB", "MYB", "PIK3R1", "TNFRSF11A", "VEGFA", "WEE1"]}
+{"mirna": "hsa-miR-504-3p", "gene": ["NRF1"]}
+{"mirna": "hsa-miR-504-5p", "gene": ["DRD1", "TFF1", "TP53", "VEGFA"]}
+{"mirna": "hsa-miR-505-3p", "gene": ["AMFR", "PSMD10", "SRSF1", "TGFA"]}
+{"mirna": "hsa-miR-506-3p", "gene": ["CD151", "CDH2", "CDK4", "CDK6", "COTL1", "DNMT3B", "ETS1", "FLOT1", "FOXQ1", "FXN", "GLI3", "IQGAP1", "PIM3", "ROCK1", "SNAI1", "SNAI2", "SPHK1", "TCF3", "VIM", "WNK1", "YAP1"]}
+{"mirna": "hsa-miR-506-5p", "gene": ["CTNNB1", "IQGAP1", "MTDH"]}
+{"mirna": "hsa-miR-508-3p", "gene": ["NFKB1", "PIKFYVE"]}
+{"mirna": "hsa-miR-508-5p", "gene": ["ABCB1", "GPNMB", "ZNRD1"]}
+{"mirna": "hsa-miR-509-3-5p", "gene": ["FOXM1", "PLK1", "PODXL"]}
+{"mirna": "hsa-miR-509-3p", "gene": ["CFTR", "MAP3K8", "NTRK3", "YAP1"]}
+{"mirna": "hsa-miR-509-5p", "gene": ["YWHAG"]}
+{"mirna": "hsa-miR-510-5p", "gene": ["HTR3E", "PRDX1", "SPDEF"]}
+{"mirna": "hsa-miR-511-5p", "gene": ["FKBP5", "PROP1", "SLCO1B1", "TRIB2", "TRIM24"]}
+{"mirna": "hsa-miR-512-5p", "gene": ["CDKN1A", "MCL1", "TEAD4", "TERT"]}
+{"mirna": "hsa-miR-513a-3p", "gene": ["GSTP1", "LHCGR"]}
+{"mirna": "hsa-miR-513a-5p", "gene": ["BTG3", "CD274", "DR1", "GNG13"]}
+{"mirna": "hsa-miR-513b-5p", "gene": ["BTG3", "DR1", "GNG13", "HMGB3"]}
+{"mirna": "hsa-miR-513c-5p", "gene": ["BTG3", "DR1", "GNG13"]}
+{"mirna": "hsa-miR-514a-5p", "gene": ["NF1"]}
+{"mirna": "hsa-miR-515-3p", "gene": ["CDKN1A"]}
+{"mirna": "hsa-miR-515-5p", "gene": ["CYP19A1", "FZD5", "GCM1"]}
+{"mirna": "hsa-miR-516a-3p", "gene": ["SULF1", "WNT5A"]}
+{"mirna": "hsa-miR-517a-3p", "gene": ["PTK2B", "TNIP1"]}
+{"mirna": "hsa-miR-517c-3p", "gene": ["PTK2B"]}
+{"mirna": "hsa-miR-518a-3p", "gene": ["CCR6"]}
+{"mirna": "hsa-miR-518a-5p", "gene": ["CCL2", "MCL1", "PIK3C2A"]}
+{"mirna": "hsa-miR-518b", "gene": ["FOXN1", "RAP1B"]}
+{"mirna": "hsa-miR-518c-3p", "gene": ["HSD17B1", "PTEN", "TP53"]}
+{"mirna": "hsa-miR-518d-3p", "gene": ["PPA1"]}
+{"mirna": "hsa-miR-519a-3p", "gene": ["CDKN1A", "DICER1", "ELAVL1", "FOXF2", "PTEN", "RB1", "STAT3", "TIMP1", "YES1"]}
+{"mirna": "hsa-miR-519b-3p", "gene": ["CDKN1A", "ELAVL1"]}
+{"mirna": "hsa-miR-519c-3p", "gene": ["ABCG2", "CDKN1A", "ELAVL1", "HIF1A", "PTEN", "TIMP2"]}
+{"mirna": "hsa-miR-519d-3p", "gene": ["AKT3", "CDKN1A", "E2F1", "MKI67", "MMP2", "PPARA", "PTEN", "SMAD7", "STAT3", "TIMP2"]}
+{"mirna": "hsa-miR-519e-3p", "gene": ["CDKN1A"]}
+{"mirna": "hsa-miR-520a-3p", "gene": ["CCND1", "CD44", "CDKN1A", "HOXD8", "MAP3K2", "PFKP", "TGFBR2"]}
+{"mirna": "hsa-miR-520b", "gene": ["CCND1", "CD46", "CDKN1A", "CXCL8", "EGFR", "LAMTOR5", "MAP3K2", "MICA", "PFKP"]}
+{"mirna": "hsa-miR-520c-3p", "gene": ["APP", "CD44", "EIF4G1", "GPC3", "IRF2", "MICA", "MTOR", "SIRT1", "STAT3"]}
+{"mirna": "hsa-miR-520d-3p", "gene": ["EPHA2"]}
+{"mirna": "hsa-miR-520d-5p", "gene": ["PPIB"]}
+{"mirna": "hsa-miR-520e", "gene": ["CD46", "EGFR", "MAP3K14", "MAP4K4", "PFKP", "ZBTB7A"]}
+{"mirna": "hsa-miR-520g-3p", "gene": ["DAPK2", "MMP2", "SMAD7", "TCEAL1", "VEGFA"]}
+{"mirna": "hsa-miR-520h", "gene": ["ABCG2", "CDKN1A", "DAPK2", "HDAC1", "VEGFA"]}
+{"mirna": "hsa-miR-521", "gene": ["ERCC8"]}
+{"mirna": "hsa-miR-522-3p", "gene": ["DENND2D", "FXN", "PTGR1"]}
+{"mirna": "hsa-miR-522-5p", "gene": ["ABCB5"]}
+{"mirna": "hsa-miR-524-5p", "gene": ["CDK2", "HES1", "JAG1", "MMP2", "MMP9", "SOX9", "TTK", "WEE1"]}
+{"mirna": "hsa-miR-525-3p", "gene": ["ARRB1", "ESD", "PPIG", "ZNF395"]}
+{"mirna": "hsa-miR-526b-3p", "gene": ["MMP1", "SETD2"]}
+{"mirna": "hsa-miR-526b-5p", "gene": ["XRCC5"]}
+{"mirna": "hsa-miR-532-5p", "gene": ["CXCL2", "FASN", "NKD1", "RUNX3", "SYK", "TERT"]}
+{"mirna": "hsa-miR-539-3p", "gene": ["USP13"]}
+{"mirna": "hsa-miR-539-5p", "gene": ["CARD11", "CDK4", "MMP8", "SPAG5", "TWIST1", "ZEB1"]}
+{"mirna": "hsa-miR-541-3p", "gene": ["ERBB2", "TGIF2"]}
+{"mirna": "hsa-miR-542-3p", "gene": ["AKT1", "ANGPT2", "BIRC5", "BMP7", "CTTN", "FZD7", "IGFBP1", "ILK", "MTDH", "OTUB1", "PIK3R1", "PIM1", "RPS23"]}
+{"mirna": "hsa-miR-542-5p", "gene": ["EGFR", "HUWE1"]}
+{"mirna": "hsa-miR-543", "gene": ["FBXO11", "HMGA2", "KRAS", "MMP7", "MTA1", "NOS3", "PTK2", "SIRT1", "TWIST1"]}
+{"mirna": "hsa-miR-544a", "gene": ["BCL6", "BMI1", "CDH1", "HOXA10", "STAT3"]}
+{"mirna": "hsa-miR-545-3p", "gene": ["CDK4", "SNAI2"]}
+{"mirna": "hsa-miR-548a-3p", "gene": ["ECHS1"]}
+{"mirna": "hsa-miR-548a-5p", "gene": ["IFT88"]}
+{"mirna": "hsa-miR-548b-3p", "gene": ["CCNB1"]}
+{"mirna": "hsa-miR-548c-3p", "gene": ["ITGAV", "TWIST1"]}
+{"mirna": "hsa-miR-548d-3p", "gene": ["ERBB2", "TP53BP2"]}
+{"mirna": "hsa-miR-548d-5p", "gene": ["PPARA"]}
+{"mirna": "hsa-miR-548i", "gene": ["ZBTB11"]}
+{"mirna": "hsa-miR-548j-5p", "gene": ["TNS1"]}
+{"mirna": "hsa-miR-548m", "gene": ["HDAC6"]}
+{"mirna": "hsa-miR-548p", "gene": ["APOB", "LAMTOR5"]}
+{"mirna": "hsa-miR-550a-3p", "gene": ["MAPK1", "MAPK3"]}
+{"mirna": "hsa-miR-550a-5p", "gene": ["CPEB4", "RNF43"]}
+{"mirna": "hsa-miR-551a", "gene": ["CKB", "PTP4A3"]}
+{"mirna": "hsa-miR-552-3p", "gene": ["BIRC5", "ERBB2", "PIK3R2"]}
+{"mirna": "hsa-miR-552-5p", "gene": ["NSMF"]}
+{"mirna": "hsa-miR-556-5p", "gene": ["PPP2R2A"]}
+{"mirna": "hsa-miR-558", "gene": ["AATK", "HPSE", "PTGS2"]}
+{"mirna": "hsa-miR-5582-5p", "gene": ["A1BG", "CDK2", "SHC1"]}
+{"mirna": "hsa-miR-559", "gene": ["ERBB2", "FXN", "MTA1"]}
+{"mirna": "hsa-miR-561-3p", "gene": ["MYC", "NR0B1"]}
+{"mirna": "hsa-miR-562", "gene": ["EYA1"]}
+{"mirna": "hsa-miR-566", "gene": ["VHL"]}
+{"mirna": "hsa-miR-567", "gene": ["KPNA4"]}
+{"mirna": "hsa-miR-569", "gene": ["SPI1"]}
+{"mirna": "hsa-miR-570-3p", "gene": ["CD274"]}
+{"mirna": "hsa-miR-570-5p", "gene": ["KLF9"]}
+{"mirna": "hsa-miR-572", "gene": ["CDKN1A", "CISH"]}
+{"mirna": "hsa-miR-573", "gene": ["ARHGAP26", "FGFR1", "MCAM", "TSPAN1"]}
+{"mirna": "hsa-miR-574-3p", "gene": ["CLTC", "CUL2", "EGFR", "EP300", "RAC1", "RXRA", "SMAD4", "TGFB1"]}
+{"mirna": "hsa-miR-574-5p", "gene": ["FOXN3"]}
+{"mirna": "hsa-miR-576-3p", "gene": ["CCND1"]}
+{"mirna": "hsa-miR-577", "gene": ["FGF21", "HSPB2"]}
+{"mirna": "hsa-miR-5787", "gene": ["ELF5"]}
+{"mirna": "hsa-miR-579-3p", "gene": ["BRAF"]}
+{"mirna": "hsa-miR-580-3p", "gene": ["TWIST1"]}
+{"mirna": "hsa-miR-581", "gene": ["DICER1", "EDEM1"]}
+{"mirna": "hsa-miR-582-3p", "gene": ["AXIN2", "DKK3", "SFRP1"]}
+{"mirna": "hsa-miR-582-5p", "gene": ["CASP3", "CASP9", "CREB1", "EFNB2", "MCL1", "RAB27A"]}
+{"mirna": "hsa-miR-584-3p", "gene": ["ROCK1"]}
+{"mirna": "hsa-miR-584-5p", "gene": ["ROCK1", "WWP1"]}
+{"mirna": "hsa-miR-587", "gene": ["PPP2R1B"]}
+{"mirna": "hsa-miR-588", "gene": ["GRN"]}
+{"mirna": "hsa-miR-589-5p", "gene": ["FXN", "MAP3K8", "PTGS2"]}
+{"mirna": "hsa-miR-590-3p", "gene": ["APC", "FOSL2", "MACC1", "ZEB1", "ZEB2"]}
+{"mirna": "hsa-miR-590-5p", "gene": ["ATF3", "BTG2", "CHL1", "CREB5", "ILF3", "OLR1", "RB1", "RECK", "SMAD3", "SMAD7", "TGFBR2"]}
+{"mirna": "hsa-miR-591", "gene": ["ZEB1"]}
+{"mirna": "hsa-miR-592", "gene": ["DEK", "FOXO3", "SOX9"]}
+{"mirna": "hsa-miR-593-3p", "gene": ["CD274", "PROP1"]}
+{"mirna": "hsa-miR-593-5p", "gene": ["MFF", "PLK1"]}
+{"mirna": "hsa-miR-595", "gene": ["PARD6A"]}
+{"mirna": "hsa-miR-596", "gene": ["LGALS3BP"]}
+{"mirna": "hsa-miR-599", "gene": ["MYC", "SATB2"]}
+{"mirna": "hsa-miR-601", "gene": ["CD274"]}
+{"mirna": "hsa-miR-603", "gene": ["CCND1", "CCND2", "EEF2K", "IGF1", "TRAPPC2B"]}
+{"mirna": "hsa-miR-605-5p", "gene": ["MDM2", "PSMD10", "SEC24D", "TP53"]}
+{"mirna": "hsa-miR-608", "gene": ["BCL2L1", "CD44", "CDC42", "FBXO32", "NAA10"]}
+{"mirna": "hsa-miR-610", "gene": ["HDGF", "MDM2", "VASP"]}
+{"mirna": "hsa-miR-612", "gene": ["AKT2", "SP1"]}
+{"mirna": "hsa-miR-613", "gene": ["ABCA1", "BDNF", "CDK4", "KRAS", "NR1H3"]}
+{"mirna": "hsa-miR-615-3p", "gene": ["LCOR"]}
+{"mirna": "hsa-miR-615-5p", "gene": ["IGF2", "RAB24"]}
+{"mirna": "hsa-miR-616-3p", "gene": ["PON1", "TFPI2"]}
+{"mirna": "hsa-miR-616-5p", "gene": ["GSK3B"]}
+{"mirna": "hsa-miR-620", "gene": ["FXN"]}
+{"mirna": "hsa-miR-622", "gene": ["CXCR4", "KRAS", "LAMC2", "PLAUR"]}
+{"mirna": "hsa-miR-623", "gene": ["XRCC5"]}
+{"mirna": "hsa-miR-624-3p", "gene": ["FXN"]}
+{"mirna": "hsa-miR-625-3p", "gene": ["MAP2K6"]}
+{"mirna": "hsa-miR-625-5p", "gene": ["FHIT", "HMGA1", "IGF2BP1", "ILK", "NTRK3", "SCAI", "SOX2"]}
+{"mirna": "hsa-miR-627-5p", "gene": ["KDM3A"]}
+{"mirna": "hsa-miR-628-3p", "gene": ["RUNX2"]}
+{"mirna": "hsa-miR-628-5p", "gene": ["ABRA", "HLA-G", "IRS1"]}
+{"mirna": "hsa-miR-629-5p", "gene": ["HNF4A", "TRIM33"]}
+{"mirna": "hsa-miR-630", "gene": ["BCL2", "BCL2L2", "CDC14A", "FOXM1", "IGF1R", "MTDH", "SNAI2", "TP53RK", "YAP1"]}
+{"mirna": "hsa-miR-631", "gene": ["SULT1A1", "UBE2C", "ZAP70"]}
+{"mirna": "hsa-miR-632", "gene": ["PRDX6"]}
+{"mirna": "hsa-miR-633", "gene": ["HMGA2", "TGFB1"]}
+{"mirna": "hsa-miR-634", "gene": ["CYR61"]}
+{"mirna": "hsa-miR-636", "gene": ["SLC25A5"]}
+{"mirna": "hsa-miR-637", "gene": ["AKT1", "SP7"]}
+{"mirna": "hsa-miR-638", "gene": ["CDK2", "DACT3", "OSCP1", "PLD1", "PTEN", "SOX2", "SP2", "STARD10", "TP53", "TP53INP2"]}
+{"mirna": "hsa-miR-639", "gene": ["CDKN1A", "FOXC1"]}
+{"mirna": "hsa-miR-641", "gene": ["SNAP25"]}
+{"mirna": "hsa-miR-642a-5p", "gene": ["DOHH"]}
+{"mirna": "hsa-miR-644a", "gene": ["ACTB", "CTBP1", "GAPDH"]}
+{"mirna": "hsa-miR-645", "gene": ["IFIT2"]}
+{"mirna": "hsa-miR-646", "gene": ["NOB1"]}
+{"mirna": "hsa-miR-647", "gene": ["ANK2"]}
+{"mirna": "hsa-miR-648", "gene": ["EDN1", "MGMT"]}
+{"mirna": "hsa-miR-650", "gene": ["IFIT2", "ING4", "NDRG2"]}
+{"mirna": "hsa-miR-652-3p", "gene": ["LLGL1", "ZEB1"]}
+{"mirna": "hsa-miR-654-3p", "gene": ["CDKN1A"]}
+{"mirna": "hsa-miR-654-5p", "gene": ["EPSTI1"]}
+{"mirna": "hsa-miR-655-3p", "gene": ["ADAM10", "MAGI2", "PRRX1", "PTTG1", "TGFBR2", "ZEB1"]}
+{"mirna": "hsa-miR-656-3p", "gene": ["BMPR1A"]}
+{"mirna": "hsa-miR-657", "gene": ["CDKN1A", "IGF2R", "TLE1"]}
+{"mirna": "hsa-miR-659-3p", "gene": ["GRN", "SPHK1"]}
+{"mirna": "hsa-miR-660-5p", "gene": ["TFCP2"]}
+{"mirna": "hsa-miR-661", "gene": ["CYC1", "MCL1", "MDM2", "MDM4", "MGMT", "MTA1"]}
+{"mirna": "hsa-miR-662", "gene": ["ING1"]}
+{"mirna": "hsa-miR-663a", "gene": ["APC", "CDK1", "CDKN1A", "CXCR4", "EEF1A2", "HRAS", "HSPG2", "JUNB", "JUND", "MYL9", "PIK3CD", "PLOD3", "TCEAL1", "TGFB1", "TP53"]}
+{"mirna": "hsa-miR-663b", "gene": ["EEF1A2", "IGF2"]}
+{"mirna": "hsa-miR-664a-3p", "gene": ["MAT1A", "MEG3", "SOX7"]}
+{"mirna": "hsa-miR-664b-5p", "gene": ["CCNE2"]}
+{"mirna": "hsa-miR-665", "gene": ["CD274", "CNR2"]}
+{"mirna": "hsa-miR-670-5p", "gene": ["PROX1"]}
+{"mirna": "hsa-miR-671-5p", "gene": ["CDR1", "FOXM1"]}
+{"mirna": "hsa-miR-675-3p", "gene": ["SMAD1", "SMAD5"]}
+{"mirna": "hsa-miR-675-5p", "gene": ["ATP8A2", "CALN1", "CDC6", "DDB2", "GPR55", "HDAC4", "HDAC5", "HDAC6", "MITF", "NOMO1", "RB1", "REPS2", "RUNX1", "TGFB1", "TGFBI"]}
+{"mirna": "hsa-miR-7-1-3p", "gene": ["EGFR", "IGF1R", "KCNJ2", "RAF1"]}
+{"mirna": "hsa-miR-7-5p", "gene": ["ABCC1", "BAX", "BCL2", "CCNE1", "CUL5", "EGFR", "FOS", "GDF5", "HELLS", "HOXB3", "HOXB5", "IGF1R", "ILF2", "ILF3", "IRS1", "IRS2", "KEAP1", "KLF4", "KMT5A", "MSH3", "NDUFA4", "PAK1", "PAX6", "PIK3CD", "PIK3CG", "PIK3R3", "PSME3", "PTK2", "RAF1", "REL", "RELA", "RGS5", "RNF183", "SERPINB5", "SIRT2", "SKP2", "SLC7A5", "SMARCD1", "SNCA", "SRSF1", "TET2", "UBE2A", "VDAC1", "XIAP", "XRCC2", "YY1"]}
+{"mirna": "hsa-miR-708-3p", "gene": ["MPL", "N4BP1", "OTUB1", "TEX261"]}
+{"mirna": "hsa-miR-708-5p", "gene": ["AKT1", "AKT2", "BCL2", "BIRC5", "BMI1", "CASP2", "CCND1", "CD274", "CD44", "CNTFR", "EYA3", "EZH2", "IKBKG", "KDM1A", "MMP2", "NNAT", "PARP1", "SMAD3", "TMEM88", "ZEB2"]}
+{"mirna": "hsa-miR-711", "gene": ["CDK4", "SP1"]}
+{"mirna": "hsa-miR-718", "gene": ["HOXB8", "PTEN", "VEGFA"]}
+{"mirna": "hsa-miR-720", "gene": ["TWIST1", "VASH1"]}
+{"mirna": "hsa-miR-744-3p", "gene": ["PDCD4", "PTEN"]}
+{"mirna": "hsa-miR-744-5p", "gene": ["ARHGAP5", "EEF1A2", "GSK3B", "MYC", "NKD1", "SFRP1", "TLE3"]}
+{"mirna": "hsa-miR-7515", "gene": ["MET"]}
+{"mirna": "hsa-miR-758-3p", "gene": ["TLR3", "TLR7"]}
+{"mirna": "hsa-miR-760", "gene": ["CSNK2A1", "HIST1H2AD", "HIST1H3D"]}
+{"mirna": "hsa-miR-761", "gene": ["MFN2"]}
+{"mirna": "hsa-miR-762", "gene": ["AMD1", "IFITM5", "IRF7"]}
+{"mirna": "hsa-miR-765", "gene": ["EMP3", "HES1", "HNF4A", "INPP4B", "NTRK3"]}
+{"mirna": "hsa-miR-766-3p", "gene": ["BAX"]}
+{"mirna": "hsa-miR-767-3p", "gene": ["MGMT"]}
+{"mirna": "hsa-miR-767-5p", "gene": ["COL10A1", "COL3A1", "COL4A1", "COL4A2", "COL5A2", "FBN1", "LOX", "MMP2", "PDGFRB", "SERPINH1", "SPARC"]}
+{"mirna": "hsa-miR-768-3p", "gene": ["EIF4E"]}
+{"mirna": "hsa-miR-768-5p", "gene": ["NTRK3"]}
+{"mirna": "hsa-miR-769-5p", "gene": ["GSK3B"]}
+{"mirna": "hsa-miR-770-5p", "gene": ["ERCC2", "FBXW7"]}
+{"mirna": "hsa-miR-802", "gene": ["MECP2"]}
+{"mirna": "hsa-miR-873-5p", "gene": ["ABCB1", "CDK3", "SRCIN1"]}
+{"mirna": "hsa-miR-874-3p", "gene": ["AQP3", "CDK9", "E2F3", "HDAC1", "PIN1", "STAT3"]}
+{"mirna": "hsa-miR-875-5p", "gene": ["EGFR"]}
+{"mirna": "hsa-miR-876-3p", "gene": ["MCL1"]}
+{"mirna": "hsa-miR-877-3p", "gene": ["IL1B"]}
+{"mirna": "hsa-miR-885-3p", "gene": ["BMPR1A", "CD274"]}
+{"mirna": "hsa-miR-885-5p", "gene": ["CASP3", "CDK2", "CTNNB1", "IGF1R", "MCM5"]}
+{"mirna": "hsa-miR-886-3p", "gene": ["CDC6", "CXCL12", "MCL1", "PLK1"]}
+{"mirna": "hsa-miR-887-3p", "gene": ["IL1B", "MDM4", "PLD2"]}
+{"mirna": "hsa-miR-888-5p", "gene": ["CDH1"]}
+{"mirna": "hsa-miR-891a-5p", "gene": ["NFKBIA"]}
+{"mirna": "hsa-miR-891b", "gene": ["CBLB"]}
+{"mirna": "hsa-miR-892a", "gene": ["CD226"]}
+{"mirna": "hsa-miR-892b", "gene": ["MAP3K7", "MCL1", "TAB3", "TRAF2"]}
+{"mirna": "hsa-miR-9-3p", "gene": ["ABCB1", "CBX7", "CDH1", "DLG1", "DMD", "E2F1", "FOXO1", "GNAI1", "HES1", "ITGB1", "MAPK1", "MAPK3", "MMP9", "NEUROG1", "NFKB1", "NOTCH2", "PPARA", "RCOR1", "RGS5", "TAZ", "TUG1"]}
+{"mirna": "hsa-miR-9-5p", "gene": ["ABCC1", "ACAT1", "AP3B1", "ATG5", "BACE1", "BCL2", "BCL2L11", "BECN1", "CAMKK2", "CBX7", "CCND1", "CCNG1", "CD34", "CDH1", "CDX2", "CHMP2B", "CREB1", "CUL4A", "CXCR4", "CYP4Z1", "DICER1", "DKK1", "DRD2", "DYRK1B", "ELAVL1", "ETS1", "FOXO1", "FOXO3", "FOXP1", "GALNT4", "GDNF", "GSK3B", "HDAC4", "HES1", "ID2", "IGF2BP1", "IGF2BP3", "IL6", "KLF17", "KPNB1", "MALAT1", "MIRLET7D", "MMP13", "MTHFD1", "MYOCD", "NF1", "NFKB1", "NOTCH1", "NOTCH2", "NOX4", "NR2E1", "NRP1", "NTRK3", "ONECUT2", "PDGFRB", "PPARA", "PRDM1", "PRKAA1", "PRTG", "RAB34", "RAP2A", "REST", "RUNX1", "SIRT1", "SOCS5", "SOX7", "SRF", "SRSF1", "STARD13", "STAU1", "STMN1", "TGFBI", "TGFBR2", "TM4SF1", "TNFAIP8", "UHRF1", "XRN2", "ZC3H12A", "foxg1a"]}
+{"mirna": "hsa-miR-921", "gene": ["ANGPTL1"]}
+{"mirna": "hsa-miR-922", "gene": ["CYLD"]}
+{"mirna": "hsa-miR-92a-1-5p", "gene": ["KLF2"]}
+{"mirna": "hsa-miR-92a-3p", "gene": ["BCL2L11", "CCL8", "CD69", "CDH1", "CPEB2", "DNMT1", "DUSP10", "ESR2", "FBXW7", "HDAC2", "HIPK1", "HIPK3", "IKZF1", "ITGA5", "KLF2", "KLF4", "LASP1", "MAP2K4", "MAPK8", "MAPRE1", "MYCBP2", "MYLIP", "NR1H4", "OSBPL2", "OSBPL8", "PCGF5", "PHLPP1", "PTEN", "RAD21", "RFFL", "RGS5", "SIRT1", "SOCS5", "STAT3", "TP63"]}
+{"mirna": "hsa-miR-92b-3p", "gene": ["CDKN1C", "DAB2IP", "DKK3", "ITGA6", "ITGAV", "NLK", "PRMT5", "PTEN", "RAB23", "RECK", "SLC15A1", "SMAD3", "SMAD7"]}
+{"mirna": "hsa-miR-93-3p", "gene": ["CCNG2", "DAB2", "MMP3", "NEDD4L", "PDCD4"]}
+{"mirna": "hsa-miR-93-5p", "gene": ["ABCA1", "ANG", "ATG16L1", "CDKN1A", "CERS2", "CXCL8", "DAB2", "E2F1", "FOXA1", "FOXO3", "ITGB8", "KAT2B", "LATS2", "MMP3", "PDCD4", "PHLPP2", "PTEN", "PTENP1", "PURA", "RAB11FIP1", "RHOC", "RPS6KA4", "SLC2A4", "SMAD7", "STK11", "TGFBR2", "TP53INP1", "TUSC2", "VEGFA", "ZBTB4", "ZNRF3"]}
+{"mirna": "hsa-miR-935", "gene": ["NOTCH1", "SOX7"]}
+{"mirna": "hsa-miR-939-5p", "gene": ["SLC34A2"]}
+{"mirna": "hsa-miR-940", "gene": ["CD274", "DUSP1", "ZNF24"]}
+{"mirna": "hsa-miR-941", "gene": ["KDM6B"]}
+{"mirna": "hsa-miR-942-3p", "gene": ["MMP9", "VEGFA"]}
+{"mirna": "hsa-miR-942-5p", "gene": ["GSK3B", "IFI27", "NFKBIA", "SFRP4", "TLE1"]}
+{"mirna": "hsa-miR-944", "gene": ["HECW2", "PTP4A1", "S100PBP", "SIAH1"]}
+{"mirna": "hsa-miR-95-3p", "gene": ["CCND1", "CDKN1A", "CEBPD", "CELF2", "SNX1"]}
+{"mirna": "hsa-miR-95-5p", "gene": ["ESR2"]}
+{"mirna": "hsa-miR-96-3p", "gene": ["GRB2", "PDHA1", "RGS5"]}
+{"mirna": "hsa-miR-96-5p", "gene": ["ADCY6", "ALK", "BDNF", "CDKN1A", "FOXO1", "FOXO3", "GDNF", "GSK3B", "HTR1B", "IARS", "KRAS", "MITF", "MTSS1", "PRMT5", "PTPN9", "RAD51", "RECK", "REV1", "SCARB1", "SLC1A1", "SLC6A6", "SNAI2", "SYCP1", "TIMP1", "TP53INP1", "TRIB3", "ZEB1"]}
+{"mirna": "hsa-miR-98-3p", "gene": ["E2F5", "NRAS", "TWIST1"]}
+{"mirna": "hsa-miR-98-5p", "gene": ["BCL2", "CASP3", "CBL", "CCL2", "CCL5", "CCND2", "CCNJ", "CHUK", "CTNND1", "CYP19A1", "E2F2", "E2F5", "EDN1", "EZH2", "HK2", "HMGA2", "IGF1", "IL13", "IL6", "ITGB3", "MYC", "NRAS", "PAK1", "PBX3", "PGRMC1", "SALL4", "SLC31A1", "SNX6", "SOCS4", "TUSC2"]}
+{"mirna": "hsa-miR-99a-5p", "gene": ["AGO2", "AKT1", "CAPNS1", "CTDSPL", "FGFR3", "FKBP5", "HOXA1", "IGF1R", "MTMR3", "MTOR", "NOX4", "RAVER2", "SMARCA5", "TRIB2"]}
+{"mirna": "hsa-miR-99b-3p", "gene": ["GSK3B"]}
+{"mirna": "hsa-miR-99b-5p", "gene": ["ARID3A", "IGF1R", "MTOR", "RAVER2"]}

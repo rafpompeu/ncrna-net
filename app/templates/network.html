@@ -1,0 +1,86 @@
+{%include "header.html"%}
+<div class="container col-10 mb-5 mt-5">
+    <div class="d-flex justify-content-center">
+        <div id="load" style="z-index: 10; position: absolute; top: 250px;"></div>
+    </div>
+    <form id="upload-file" method="POST" enctype="multipart/form-data" action="">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-header text-center">
+                        Input
+                    </div>
+                    <div class="card-body">
+                        <label>Network type</label>
+                        <select class="form-control mb-3" name="class_opt" id="class_select">
+                            <option>Genomic</option>
+                            <option>Regulatory</option>
+                            <option>Regulatory Validated</option>
+                        </select>
+                        <label>File type</label>
+
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="inp_gene" value="gene" name="inp_opt" class="custom-control-input" />
+                            <label class="custom-control-label" for="inp_gene">Gene</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="inp_eqtl" name="inp_opt" value="eqtl" class="custom-control-input" />
+                            <label class="custom-control-label" for="inp_eqtl">eQTLs</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="inp_mirna" value="mirna" name="inp_opt" class="custom-control-input" />
+                            <label class="custom-control-label" for="inp_mirna">miRNA</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="inp_circrna" value="circrna" name="inp_opt" class="custom-control-input" />
+                            <label class="custom-control-label" for="inp_circrna">circRNA</label
+                >
+              </div>
+              <div class="custom-control custom-radio">
+                <input
+                  type="radio"
+                  id="inp_pirna"
+                  value="pirna"
+                  name="inp_opt"
+                  class="custom-control-input"
+                />
+                <label class="custom-control-label" for="inp_pirna">piRNA</label>
+                        </div>
+
+                        <input class="mt-3" type="file" class="form-control-file" id="file" name="file" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-header text-center">
+                        Output
+                    </div>
+                    <div class="card-body">
+                        <label>ncRNA type</label>
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="out_mirna" name="out_opt" value="mirna" />
+                            <label class="custom-control-label" for="out_mirna">miRNA</label>
+                        </div>
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="out_pirna" name="out_opt" value="pirna" />
+                            <label class="custom-control-label" for="out_pirna">piRNA</label>
+                        </div>
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="out_circrna" name="out_opt" value="circrna" />
+                            <label class="custom-control-label" for="out_circrna">circRNA</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+</form>
+
+<div class="d-flex justify-content-center mt-5 mb-5">
+    <button id="upload" name="/network_creator" class="btn btn-primary" data-toggle="modal" data-target="#ModalScrollable" type="button">
+        Start
+      </button>
+</div>
+</div>
+{%include "modal_network.html"%} {%include "footer.html"%}

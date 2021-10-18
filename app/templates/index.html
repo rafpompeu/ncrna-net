@@ -1,0 +1,316 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head>
+
+<body>
+    {%include "header.html"%}
+
+    <body>
+        <section id="home-section" class="">
+            <div class="container mt-5" class="view" style="background-image: url(''); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+                <div class="row justify-content-between align-items-center">
+                    <div class="text-justify col-6">
+                        <p>
+                            Non-coding RNAs (ncRNAs) are currently being widely studied and their deregulation is associated with several complex diseases. So far, the tools applied for the study of ncRNAs are restricted to a single type, and do not consider the multiple regulatory
+                            elements that synergically interact to promote gene expression regulation.
+                            <br /> The ncRNA-network is a graph-based tool to explore genomic and regulatory aspects of non-coding RNAs (ncRNAs), specially microRNAs (miRNAs), piwi- interacting RNAs (piRNAs) and circular RNAs (circRNAs). Our aim is to
+                            provide an automatic and integrative data approach to analyze the whole set of miRNAs, piRNAs and circRNAs in humans from both genomic and transcriptomic points of view. <br /> By analyzing the networks’ topology, such as the
+                            centrality metrics (degree, betweenness and density), this tool is able to identify hub genes in two different scenarios ー at the genomic perspective, representing the genes that produce multiple types ncRNAs; and at the transcriptomic
+                            perspective, representing the genes regulated by several ncRNAs. Both approaches are remarkable strategies to improve our understanding about the genomic and regulatory aspects of the non-coding transcriptome, besides allowing
+                            the identification of potential biomarkers. <br /> Besides, this tool is also integrated with NGHRI/EBI GWAS Catalog, which is the main source of genetic associations with complex diseases, enabling the automatic association
+                            of the hub genes and human diseases. This strategy improves our potential in identifying genes and ncRNAs that may be intrinsic related to the process of human illness. <br /> Additionally, this tool also allows expression
+                            quantitative trait loci (eQTL) annotation, which enable the identification of genomic variants that explain all or a fraction of variation in non-coding RNAs’ expression.
+                        </p>
+                    </div>
+                    <div class="col-6">
+                        <div>
+                            <div class="col-6 mb-3">
+                                <div class="card" style="width: 550px;">
+                                    <div class="row col-12">
+                                        <div id="gen1" class="col-6">
+                                        </div>
+                                        <div class="col-6">
+                                            <h5 class="card-title mt-1">Genomic Network</h5>
+                                            <p align="justify" class="card-text">
+                                                his approach provides the building of an integrative network between the ncRNAs (miRNAs, piRNAs and circRNAs) and their host genes. You can upload a list of genes or ncRNAs:
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6 mb-1">
+                                <div class="card" style="width: 550px;">
+                                    <div class="row col-12">
+                                        <div id="reg1" class="col-6">
+                                        </div>
+                                        <div class="col-6">
+                                            <h5 class="card-title mt-1">Regulatory Network</h5>
+                                            <p align="justify" class="card-text">
+                                                his approach provides the building of an integrative network between the ncRNAs (miRNAs, piRNAs and circRNAs) and their target genes. You can upload a list of genes, ncRNAs or eQTL:
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-around mt-3">
+                                <a href="{{url_for('network')}}" class="btn btn-primary">Start analyze</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pt-1 pb-5 " align="center">
+                <div class="mousey">
+                    <div class="scroller"></div>
+                </div>
+            </div>
+        </section>
+        <section id="about-section">
+            <div class="container" class="mb-5">
+                <div class="row">
+                    <div class="col-12 text-center my-2">
+                        <h1>About</h1>
+                    </div>
+                </div>
+                <h4 class="">Genomic:</h4>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Database</th>
+                            <th scope="col">ncRNA</th>
+                            <th scope="col">#ncRNA</th>
+                            <th scope="col">#Gene</th>
+                            <th scope="col">#Interactions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">miRBase</th>
+                            <td>miRNA</td>
+                            <td>3785</td>
+                            <td>3314</td>
+                            <td>8955</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">circBase</th>
+                            <td>circRNA</td>
+                            <td>92375</td>
+                            <td>11814</td>
+                            <td>92375</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">piRBase</th>
+                            <td>piRNA</td>
+                            <td>7948</td>
+                            <td>4295</td>
+                            <td>7948</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h4 class="mb-3 mt-5">Regulatory:</h4>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Database</th>
+                            <th scope="col">ncRNA</th>
+                            <th scope="col">#ncRNA</th>
+                            <th scope="col">#Gene</th>
+                            <th scope="col">#Interactions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">miRTarBase</th>
+                            <td>miRNA</td>
+                            <td>2599</td>
+                            <td>15064</td>
+                            <td>380639</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3 class="my-5 d-flex justify-content-center">References</h3>
+                <table class="table table-striped">
+                    <tbody>
+                        <tr>
+                            <th scope="row">miRbase</th>
+                            <td>
+                                Griffiths-Jones, S., Saini, H. K., van Dongen, S., & Enright, A. J. (2007). miRBase: tools for microRNA genomics. Nucleic acids research, 36(suppl_1), D154-D158.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">miRTarBase</th>
+                            <td>
+                                Hsu, S. D., Lin, F. M., Wu, W. Y., Liang, C., Huang, W. C., Chan, W. L., ... & Chien, C. H. (2010). miRTarBase: a database curates experimentally validated microRNA–target interactions. Nucleic acids research, 39(suppl_1), D163-D169.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">circBase</th>
+                            <td>
+                                Glažar, P., Papavasileiou, P., & Rajewsky, N. (2014). circBase: a database for circular RNAs. Rna, 20(11), 1666-1670.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">piRBase</th>
+                            <td>
+                                Zhang, P., Si, X., Skogerbø, G., Wang, J., Cui, D., Li, Y., ... & He, S. (2014). piRBase: a web resource assisting piRNA functional study. Database, 2014.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">GWAS Catalog</th>
+                            <td>
+                                Welter, D., MacArthur, J., Morales, J., Burdett, T., Hall, P., Junkins, H., ... & Parkinson, H. (2013). The NHGRI GWAS Catalog, a curated resource of SNP-trait associations. Nucleic acids research, 42(D1), D1001-D1006.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="row">
+                    <div class="col-12 text-center my-5">
+
+                        <a href="http://lghm.ufpa.br/">
+                            <img src="../static/images/lghm.png" alt="" width="150px" height="60px" />
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card-deck">
+                        <div class="card mb-4">
+                            <img src="../static/images/amanda_vidal.png" class="card-img-top" alt="..." />
+                            <div class="card-body text-justify">
+                                <h5 class="card-title">Dr. Amanda Ferreira Vidal</h5>
+                                <p class="card-text">
+                                    Dr. Vidal is a biologist with a Ph.D in Genetics and Molecular Biology. Currently, she is a visitant professor at the Federal University of Pará and has a broad experience in Next Generation Sequencing, non-coding RNAs’ expression and mitochondria.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="../static/images/andrea_ribeiro.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Dr. Ândrea Ribeiro-dos-Santos</h5>
+                                <p class="card-text text-justify">
+                                    Dr. Ribeiro-dos-Santos has a degree in biomedical sciences and Ph.D in Genetics. She is a full professor at the Federal University of Pará since 1997 and has a master experience in Population Genomics and non-coding RNAs’ expression in human diseases.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="../static/images/gilderlanio_araujo.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Dr. Gilderlanio Santana de Araújo</h5>
+                                <p class="card-text text-justify">
+                                    Dr. Araújo is a computer scientist with Ph.D in Bioinformatics. Currently, he is a visitant professor at the Federal University of Pará and his expertise is in Population Genomics, eQTL and genome-wide association studies.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="../static/images/rafael_pompeu.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Rafael Pompeu Pantoja</h5>
+                                <p class="card-text text-justify">
+                                    Rafael is an undergraduate student in Computer Engineering at the Federal University of Pará. He is the responsible in developing and updating this tool.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h4 class="mt-5 mb-5">See below our most recent articles:</h4>
+                <div class="list-group">
+                    <a href="https://doi.org/10.1016/j.fsigen.2019.102163" class=" mb-2 list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                Male lineages in Brazilian populations and performance of haplogroup prediction tools
+                            </h5>
+                            <small class="text-muted">2020</small>
+                        </div>
+                        <p class="mb-1">Forensic Science International-Genetics</p>
+                    </a>
+                    <a href="https://doi.org/10.3389/fgene.2019.00592" class=" mb-2 list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                miRNome Reveals New Insights Into the Molecular Biology of Field Cancerization in Gastric Cancer
+                            </h5>
+                            <small class="text-muted">2019</small>
+                        </div>
+                        <p class="mb-1">Frontiers in Genetics</p>
+                    </a>
+                    <a href="https://doi.org/10.1038/s41598-
+                    019-51951-x" class=" mb-2 list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                Whole mitochondrial genome sequencing highlights mitochondrial impact in gastric cancer
+                            </h5>
+                            <small class="text-muted">2019</small>
+                        </div>
+                        <p class="mb-1">Scientific Reports</p>
+                    </a>
+                    <a href="https://doi.org/10.3390/ijms20174133" class=" mb-2 list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                WA Cell’s Fate: An Overview of the Molecular Biology and Genetics of Apoptosis
+                            </h5>
+                            <small class="text-muted">2019</small>
+                        </div>
+                        <p class="mb-1">International Journal of Molecular Sciences</p>
+                    </a>
+                    <a href="https://journals.lww.com/jpharmacogenetics/Abstract/2020/01000/Pharmacogeomic_implications_of_population.1.aspx" class=" mb-2 list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                Pharmacogeomic implications of population diversity in Latin America: TPMT and NUDT15 polymorphisms and thiopurine dosing
+                            </h5>
+                            <small class="text-muted">2019</small>
+                        </div>
+                        <p class="mb-1">Pharmacogenetics and Genomics</p>
+                    </a>
+                </div>
+                <div class="d-flex justify-content-around mt-5 mb-5">
+                    <div class="card" style="width: 20rem;">
+                        <div class="card-body">
+                            <h5 class="card-title">Updates for November, 2019</h5>
+                            <p class="card-text">Release 1.0</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Rafael Pompeu</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="help-section" class="">
+        </section>
+        <section id="contact-section" class="">
+            <div class="container mt-5 mb-5">
+                <div class="row">
+                    <div class="col-12 text-center mt-5 mb-3">
+                        <h1>Contact us</h1>
+                    </div>
+                </div>
+                <div class="row d-flex justify-content-center mb-3">
+                    <div class="col-5">
+                        Please report misbehaviour and suggest further modifications or upgrades to our team.
+                        <form class="mt-3">
+                            <div class="form-group">
+                                <label for="formGroupExampleInput">Name</label>
+                                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Full Name" />
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Message</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        {%include "footer.html"%}
+    </body>
+
+</html>
